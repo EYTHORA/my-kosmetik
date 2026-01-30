@@ -1,0 +1,17 @@
+.admin-container {
+  padding: 20px;
+}
+
+.admin-container h1 {
+  margin-bottom: 20px;
+}
+
+.admin-container ul {
+  list-style: none;
+  padding: 0;
+}
+
+.admin-container li {
+  padding: 8px 0;
+  border-bottom: 1px solid #eee;
+}

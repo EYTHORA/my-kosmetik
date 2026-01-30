@@ -1,0 +1,23 @@
+.shade-btn {
+  width: 32px;
+  height: 32px;
+  border-radius: 9999px;
+  border: 1px solid #ccc;
+}
+
+/* COLOR MAP */
+.shade-pink {
+  background-color: #f7a1c4;
+}
+
+.shade-nude {
+  background-color: #e6c3a3;
+}
+
+.shade-red {
+  background-color: #d62828;
+}
+
+.shade-brown {
+  background-color: #8b5e3c;
+}
