@@ -7,12 +7,12 @@ export interface Review {
 }
 
 export interface Product {
-  id: string;
+  id: number;
   slug: string;
   title: string;
   price: string;
   image: string;
-  category: string;        // ✅ TAMBAH
+  category: string;
   size?: string;
   description?: string;
   ingredients?: string[];

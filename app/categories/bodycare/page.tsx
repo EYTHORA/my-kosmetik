@@ -7,6 +7,7 @@ const bodycare = [
     title: "Lightweight Body Lotion",
     price: "Rp 89.000",
     image: "/body_care/LightweightBodyLotion.jpg",
+    category: "bodycare",
   },
   {
     id: 2,
@@ -14,6 +15,7 @@ const bodycare = [
     title: "Ultra Moist Body Cream",
     price: "Rp 109.000",
     image: "/body_care/UltraMoistBodyCream.jpg",
+    category: "bodycare",
   },
   {
     id: 3,
@@ -21,6 +23,7 @@ const bodycare = [
     title: "Intense Repair Body Butter",
     price: "Rp 129.000",
     image: "/body_care/IntenseRepairBodyButter.jpg",
+    category: "bodycare",
   },
   {
     id: 4,
@@ -28,6 +31,7 @@ const bodycare = [
     title: "Nourishing Body Oil",
     price: "Rp 119.000",
     image: "/body_care/NourishingBodyOil.jpg",
+    category: "bodycare",
   },
   {
     id: 5,
@@ -35,6 +39,7 @@ const bodycare = [
     title: "Brightening Body Serum",
     price: "Rp 135.000",
     image: "/body_care/BrighteningBodySerum.jpg",
+    category: "bodycare",
   },
   {
     id: 6,
@@ -42,6 +47,7 @@ const bodycare = [
     title: "Soft Hand Cream",
     price: "Rp 49.000",
     image: "/body_care/SoftHandCream.jpg",
+    category: "bodycare",
   },
   {
     id: 7,
@@ -49,6 +55,7 @@ const bodycare = [
     title: "Refreshing Body Wash",
     price: "Rp 79.000",
     image: "/body_care/RefreshingBodyWash.jpg",
+    category: "bodycare",
   },
   {
     id: 8,
@@ -56,6 +63,7 @@ const bodycare = [
     title: "Gentle Exfoliating Body Scrub",
     price: "Rp 99.000",
     image: "/body_care/GentleExfoliatingBodyScrub.jpg",
+    category: "bodycare",
   },
   {
     id: 9,
@@ -63,6 +71,7 @@ const bodycare = [
     title: "Floral Breeze Body Mist",
     price: "Rp 75.000",
     image: "/body_care/FloralBreezeBodyMist.jpg",
+    category: "bodycare",
   },
   {
     id: 10,
@@ -70,6 +79,7 @@ const bodycare = [
     title: "Sweet Vanilla Body Mist",
     price: "Rp 75.000",
     image: "/body_care/SweetVanillaBodyMist.jpg",
+    category: "bodycare",
   },
   {
     id: 11,
@@ -77,6 +87,7 @@ const bodycare = [
     title: "UV Shield Body Sunscreen SPF 50",
     price: "Rp 129.000",
     image: "/body_care/UVShieldBodySunscreenSPF50.jpg",
+    category: "bodycare",
   },
   {
     id: 12,
@@ -84,13 +95,16 @@ const bodycare = [
     title: "Cooling Foot Cream",
     price: "Rp 55.000",
     image: "/body_care/CoolingFootCream.jpg",
+    category: "bodycare",
   },
 ];
 
 export default function BodycarePage() {
   return (
-     <main className="bg-[#FFBAB1] w-full min-h-screen px-6 py-12">
-      <h1 className="text-3xl font-bold mb-6 text-white font-poppins text-center ">Body care</h1>
+    <main className="bg-[#FFBAB1] w-full min-h-screen px-6 py-12">
+      <h1 className="text-3xl font-bold mb-6 text-white font-poppins text-center ">
+        Body care
+      </h1>
 
       <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-8">
         {bodycare.map((p) => (
