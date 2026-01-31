@@ -2,6 +2,7 @@ import products from "@/app/data/products.json";
 import { Product } from "@/app/types/product";
 import Image from "next/image";
 
+
 type Props = {
   params: {
     slug: string;
@@ -11,9 +12,7 @@ type Props = {
 export default function CategoryPage({ params }: Props) {
   const category = params.slug.toLowerCase();
 
-  const items = (products as Product[]).filter(
-    (p) => p.category.toLowerCase() === category
-  );
+  const items = products.filter( (p: Product) => p.category.toLowerCase() === category );
 
   return (
     <div className="container mx-auto py-10">
