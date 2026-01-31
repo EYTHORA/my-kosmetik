@@ -1,2384 +1,2224 @@
 [
-    {
-        "id":  1,
-        "slug":  "lip-gloss-glam-shine",
-        "title":  "Lip Gloss Glam Shine",
-        "price":  "Rp 129.000",
-        "image":  "/make_up/Lip_Gloss_Glam_Shine.png",
-        "category":  "makeup",
-        "size":  "6 ml / 0.2 fl oz",
-        "description":  "Lip gloss with a glossy finish that moisturizes and gives a natural plumping effect to lips. Perfect for everyday wear and special occasions.",
-        "howToUse":  "Apply a thin layer to your lips, starting in the center, and then spread evenly across your lips. Can be used alone or over your favorite lipstick.",
-        "ingredients":  [
-                            "Hydrogenated Polyisobutene",
-                            "Beeswax",
-                            "Vitamin E",
-                            "Shea Butter",
-                            "Jojoba Oil",
-                            "Fragrance"
-                        ],
-        "reviews":  [
-                        {
-                            "name":  "Aulia",
-                            "rating":  5,
-                            "comment":  "Leggero e per niente appiccicoso!",
-                            "image":  "/review/aulia.jpg",
-                            "date":  "2025-01-01"
-                        },
-                        {
-                            "name":  "Nadya",
-                            "rating":  5,
-                            "comment":  "The gloss is beautiful and long lasting",
-                            "image":  "/review/nadya.jpg",
-                            "date":  "2025-01-02"
-                        }
-                    ]
-    },
-    {
-        "id":  2,
-        "slug":  "matte-lipstick-rose-nude",
-        "title":  "Matte Lipstick Rose Nude",
-        "price":  "Rp 149.000",
-        "image":  "/make_up/MatteLipstickRoseNude.jpg",
-        "category":  "makeup",
-        "size":  "3.5 g / 0.12 oz",
-        "description":  "Matte lipstick with natural nude color and comfortable to wear all day long.",
-        "howToUse":  "Apply a thin layer to the lips starting from the center and then spread evenly over the entire surface. Use a lip liner for more precise results.",
-        "ingredients":  [
-                            "Isododecane",
-                            "Beeswax",
-                            "Vitamin E",
-                            "Avocado Oil",
-                            "Silica"
-                        ],
-        "reviews":  [
-                        {
-                            "name":  "Rina",
-                            "rating":  5,
-                            "comment":  "The color is beautiful and doesn\u0027t dry out your lips.",
-                            "image":  "/review/Rina.jpg",
-                            "date":  "2025-01-03"
-                        }
-                    ]
-    },
-    {
-        "id":  3,
-        "slug":  "velvet-lip-cream",
-        "title":  "Velvet Lip Cream",
-        "price":  "Rp 119.000",
-        "image":  "/make_up/VelvetLipCream.jpg",
-        "category":  "makeup",
-        "size":  "5 ml / 0.17 fl oz",
-        "description":  "Lip cream with a light velvet texture and a soft matte finish.",
-        "howToUse":  "Apply lip cream to your lips with the provided applicator. Start from the center of your lips and then spread evenly across the entire surface. For a more intense look, apply multiple layers.",
-        "ingredients":  [
-                            "Dimethicone",
-                            "Vitamin E",
-                            "Shea Butter",
-                            "Mica",
-                            "Fragrance"
-                        ],
-        "reviews":  [
-                        {
-                            "name":  "Tasya",
-                            "rating":  4,
-                            "comment":  "The texture is very soft on the lips",
-                            "image":  "/review/Tasya.jpg",
-                            "date":  "2025-01-04"
-                        }
-                    ]
-    },
-    {
-        "id": 4,
-        "slug":  "tint-glow-serum",
-        "title":  "Tint Glow Serum",
-        "price":  "Rp 169.000",
-        "image":  "/make_up/TintGlowSerum.jpg",
-        "category":  "makeup",
-        "size":  "10 ml / 0.34 fl oz",
-        "description":  "Serum tint with a natural glowing effect and moisturizes the lips.",
-        "howToUse":  "Apply a thin layer to the lips starting from the center and then spread evenly over the entire surface.",
-        "ingredients":  [
-                            "Hyaluronic Acid",
-                            "Vitamin C",
-                            "Glycerin",
-                            "Rosehip Oil",
-                            "Aloe Vera"
-                        ],
-        "reviews":  [
-                        {
-                            "name":  "Dina",
-                            "rating":  5,
-                            "comment":  "Lips look healthy and fresh",
-                            "image":  "/review/Dina.jpg",
-                            "date":  "2025-01-05"
-                        }
-                    ]
-    },
-    {
-        "id":  5,
-        "slug":  "soft-blush-creamy",
-        "title":  "Soft Blush Creamy",
-        "price":  "Rp 89.000",
-        "image":  "/make_up/SoftBlushCreamy.jpg",
-        "category":  "makeup",
-        "size":  "6 g / 0.21 oz",
-        "description":  "Creamy blush with natural results and easy to blend.",
-        "howToUse":  "Take a small amount with your fingers, tap on the cheeks, then blend evenly. Repeat for a more intense color.",
-        "ingredients":  [
-                            "Mica",
-                            "Dimethicone",
-                            "Vitamin E",
-                            "Jojoba Oil",
-                            "Iron Oxides"
-                        ],
-        "reviews":  [
-                        {
-                            "name":  "Mega",
-                            "rating":  5,
-                            "comment":  "Very natural color for daily use",
-                            "image":  "/review/mega.jpg",
-                            "date":  "2025-01-06"
-                        }
-                    ]
-    },
-    {
-        "id":  6,
-        "slug":  "golden-glow-highlighter",
-        "title":  "Golden Glow Highlighter",
-        "price":  "Rp 159.000",
-        "image":  "/make_up/GoldenGlowHighlighter.jpg",
-        "category":  "makeup",
-        "size":  "8 g / 0.28 oz",
-        "description":  "Highlighter with a soft gold shimmer without harsh glitter.",
-        "howToUse":  "Apply highlighter to the parts of your face you want to make glow, such as your cheekbones, nose, and forehead.",
-        "ingredients":  [
-                            "Mica",
-                            "Silica",
-                            "Vitamin E",
-                            "Caprylic Triglyceride"
-                        ],
-        "reviews":  [
-                        {
-                            "name":  "Intan",
-                            "rating":  5,
-                            "comment":  "Il bagliore è davvero costoso",
-                            "image":  "/review/intan.jpg",
-                            "date":  "2025-01-07"
-                        }
-                    ]
-    },
-    {
-        "id":  7,
-        "slug":  "precise-brow-definer",
-        "title":  "Precise Brow Definer",
-        "price":  "Rp 99.000",
-        "image":  "/make_up/PreciseBrowDefiner.jpg",
-        "category":  "makeup",
-        "size":  "0.3 g",
-        "description":  "A precision eyebrow pencil with natural and long-lasting results.",
-        "howToUse":  "Use an eyebrow pencil to draw your eyebrows into your desired shape. For longer-lasting results, use an eyebrow cream as a base.",
-        "ingredients":  [
-                            "Iron Oxides",
-                            "Beeswax",
-                            "Vitamin E",
-                            "Carnauba Wax"
-                        ],
-        "reviews":  [
-                        {
-                            "name":  "Fira",
-                            "rating":  4,
-                            "comment":  "The tip is good for making neat eyebrows",
-                            "image":  "/review/fira.jpg",
-                            "date":  "2025-01-08"
-                        }
-                    ]
-    },
-    {
-        "id":  8,
-        "slug":  "eyeshadow-palette",
-        "title":  "Eyeshadow Palette",
-        "price":  "Rp 219.000",
-        "image":  "/make_up/EyeshadowPalette.jpg",
-        "category":  "makeup",
-        "size":  "12 g",
-        "description":  "An eyeshadow palette with a complete selection of colors for every look.",
-        "howToUse":  "Apply eyeshadow to your eyelids using a brush or your finger. Blend thoroughly for a natural look, or add layers for a more intense color.",
-        "ingredients":  [
-                            "Mica",
-                            "Talc",
-                            "Iron Oxides",
-                            "Vitamin E",
-                            "Zinc Stearate"
-                        ],
-        "reviews":  [
-                        {
-                            "name":  "Lala",
-                            "rating":  5,
-                            "comment":  "Pigmented and minimal fallout",
-                            "image":  "/review/lala.jpg",
-                            "date":  "2025-01-09"
-                        }
-                    ]
-    },
-    {
-        "id":  9,
-        "slug":  "hydra-dew-face-mist",
-        "title":  "Hydra Dew Face Mist",
-        "price":  "Rp 139.000",
-        "image":  "/make_up/HydraDewFaceMist.jpg",
-        "category":  "makeup",
-        "size":  "50 ml",
-        "description":  "Face mist to moisturize the face and give an instant fresh effect.",
-        "howToUse":  "Spray the face mist all over your face from a distance of about 20 cm. Use it anytime to refresh your skin.",
-        "ingredients":  [
-                            "Aqua",
-                            "Aloe Vera Extract",
-                            "Rose Water",
-                            "Glycerin",
-                            "Hyaluronic Acid",
-                            "Niacinamide",
-                            "Panthenol",
-                            "Allantoin",
-                            "Phenoxyethanol"
-                        ],
-        "reviews":  [
-                        {
-                            "name":  "Nisa",
-                            "rating":  5,
-                            "comment":  "Very refreshing during the day",
-                            "image":  "/review/nisa.jpg",
-                            "date":  "2025-01-10"
-                        },
-                        {
-                            "name":  "Salsa",
-                            "rating":  5,
-                            "comment":  "Makeup sticks better",
-                            "image":  "/review/salsa.jpg",
-                            "date":  "2025-01-11"
-                        },
-                        {
-                            "name":  "Putri",
-                            "rating":  4,
-                            "comment":  "Face immediately moisturized",
-                            "image":  "/review/putri.jpg",
-                            "date":  "2025-01-12"
-                        },
-                        {
-                            "name":  "Ayu",
-                            "rating":  5,
-                            "comment":  "The spray is fine",
-                            "image":  "/review/ayu.jpg",
-                            "date":  "2025-01-13"
-                        },
-                        {
-                            "name":  "Mila",
-                            "rating":  4,
-                            "comment":  "Suitable for dry skin",
-                            "image":  "/review/mila.jpg",
-                            "date":  "2025-01-14"
-                        }
-                    ]
-    },
-    {
-        "id":  10,
-        "slug":  "radiant-glow-primer",
-        "title":  "Radiant Glow Primer",
-        "price":  "Rp 159.000",
-        "image":  "/make_up/Radiant_Glow_Primer.jpg",
-        "category":  "makeup",
-        "size":  "20 ml",
-        "description":  "A primer with a glowing effect that makes skin look smooth.",
-        "howToUse":  "Apply primer to your entire face before applying makeup. Use your fingers or a brush to blend until fully absorbed.",
-        "ingredients":  [
-                            "Cyclopentasiloxane",
-                            "Dimethicone",
-                            "Vitamin E",
-                            "Niacinamide",
-                            "Silica",
-                            "Squalane",
-                            "Tocopherol"
-                        ],
-        "reviews":  [
-                        {
-                            "name":  "Lina",
-                            "rating":  5,
-                            "comment":  "Glownya natural banget",
-                            "image":  "/review/lina.jpg",
-                            "date":  "2025-01-15"
-                        },
-                        {
-                            "name":  "Dewi",
-                            "rating":  5,
-                            "comment":  "Foundation lebih tahan lama",
-                            "image":  "/review/dewi.jpg",
-                            "date":  "2025-01-16"
-                        },
-                        {
-                            "name":  "Rani",
-                            "rating":  4,
-                            "comment":  "Bikin kulit halus",
-                            "image":  "/review/rani.jpg",
-                            "date":  "2025-01-17"
-                        },
-                        {
-                            "name":  "Mega",
-                            "rating":  5,
-                            "comment":  "No patchy sama sekali",
-                            "image":  "/review/megan.jpg",
-                            "date":  "2025-01-18"
-                        }
-                    ]
-    },
-    {
-        "id":  11,
-        "slug":  "liquid-blush-tint",
-        "title":  "Liquid Blush Tint",
-        "price":  "Rp 129.000",
-        "image":  "/make_up/LiquidBlushTint.jpg",
-        "category":  "makeup",
-        "size":  "6 ml",
-        "description":  "A lightweight liquid blush with a natural glow.",
-        "howToUse":  "Apply a small amount of blush tint to the back of your hand or directly onto your cheeks. Use your fingers or a sponge to blend it into your skin.",
-        "ingredients":  [
-                            "Aqua",
-                            "Glycerin",
-                            "Vitamin C",
-                            "Panthenol",
-                            "Mica",
-                            "Iron Oxides",
-                            "Phenoxyethanol"
-                        ],
-        "reviews":  [
-                        {
-                            "name":  "Citra",
-                            "rating":  5,
-                            "comment":  "Warnanya super fresh",
-                            "image":  "/review/citra.jpg",
-                            "date":  "2025-01-19"
-                        },
-                        {
-                            "name":  "Bella",
-                            "rating":  4,
-                            "comment":  "Gampang diblend",
-                            "image":  "/review/bella.jpg",
-                            "date":  "2025-01-20"
-                        },
-                        {
-                            "name":  "Risa",
-                            "rating":  5,
-                            "comment":  "Awet seharian",
-                            "image":  "/review/risa.jpg",
-                            "date":  "2025-01-21"
-                        },
-                        {
-                            "name":  "Kiki",
-                            "rating":  4,
-                            "comment":  "Ringan di kulit",
-                            "image":  "/review/kiki.jpg",
-                            "date":  "2025-01-22"
-                        }
-                    ]
-    },
-    {
-        "id":  12,
-        "slug":  "soft-matte-foundation",
-        "title":  "Soft Matte Foundation",
-        "price":  "Rp 179.000",
-        "image":  "/make_up/SoftMatteFoundation.jpg",
-        "category":  "makeup",
-        "size":  "30 ml",
-        "description":  "A lightweight matte foundation with buildable coverage.",
-        "howToUse":  "Take a small amount of foundation with a sponge or brush, apply it to your face starting from the center and blend it evenly across the face. Build up coverage as needed.",
-        "ingredients":  [
-                            "Aqua",
-                            "Dimethicone",
-                            "Titanium Dioxide",
-                            "Zinc Oxide",
-                            "Hyaluronic Acid",
-                            "Niacinamide",
-                            "Vitamin E",
-                            "SPF 20"
-                        ],
-        "reviews":  [
-                        {
-                            "name":  "Nabila",
-                            "rating":  5,
-                            "comment":  "Matte tapi gak kering",
-                            "image":  "/review/nabila.jpg",
-                            "date":  "2025-01-23"
-                        },
-                        {
-                            "name":  "Yuni",
-                            "rating":  4,
-                            "comment":  "Coverage oke",
-                            "image":  "/review/yuni.jpg",
-                            "date":  "2025-01-24"
-                        },
-                        {
-                            "name":  "Sari",
-                            "rating":  5,
-                            "comment":  "Cocok buat oily skin",
-                            "image":  "/review/sari.jpg",
-                            "date":  "2025-01-25"
-                        }
-                    ]
-    },
-    {
-        "id":  13,
-        "slug":  "ultra-shine-lip-gloss",
-        "title":  "Ultra Shine Lip Gloss",
-        "price":  "Rp 129.000",
-        "image":  "/make_up/_UltraShineLipGloss.png",
-        "category":  "makeup",
-        "size":  "6 ml",
-        "description":  "Lip gloss with extra shine and plump effect.",
-        "howToUse":  "Apply lip gloss to your lips using the applicator. Add layers for a more intense shine.",
-        "ingredients":  [
-                            "Hydrogenated Polyisobutene",
-                            "Vitamin E",
-                            "Shea Butter",
-                            "Jojoba Oil",
-                            "Fragrance"
-                        ],
-        "reviews":  [
-                        {
-                            "name":  "Anya",
-                            "rating":  5,
-                            "comment":  "Glossy-nya kelihatan mahal",
-                            "image":  "/review/anya.jpg",
-                            "date":  "2025-01-26"
-                        },
-                        {
-                            "name":  "Dita",
-                            "rating":  5,
-                            "comment":  "Bibir lembap banget",
-                            "image":  "/review/dita.jpg",
-                            "date":  "2025-01-26"
-                        },
-                        {
-                            "name":  "Lusi",
-                            "rating":  4,
-                            "comment":  "Ga lengket",
-                            "image":  "/review/lusi.jpg",
-                            "date":  "2025-01-27"
-                        }
-                    ]
-    },
-    {
-        "id":  14,
-        "slug":  "velvet-matte-lip-cream",
-        "title":  "Velvet Matte Lip Cream",
-        "price":  "Rp 139.000",
-        "image":  "/make_up/VelvetMatteLipCream.jpg",
-        "category":  "makeup",
-        "size":  "5 ml",
-        "description":  "Matte lip cream with a soft velvet finish.",
-        "howToUse":  "Apply the lip cream to your lips using the provided applicator. Start in the center of your lips and spread evenly across the entire surface. For a more intense finish, apply several layers.",
-        "ingredients":  [
-                            "Dimethicone",
-                            "Shea Butter",
-                            "Vitamin E",
-                            "Silica",
-                            "Iron Oxides"
-                        ],
-        "reviews":  [
-                        {
-                            "name":  "Eva",
-                            "rating":  5,
-                            "comment":  "Warnanya cantik semua",
-                            "image":  "/review/eva.jpg",
-                            "date":  "2025-01-28"
-                        },
-                        {
-                            "name":  "Tina",
-                            "rating":  4,
-                            "comment":  "Nyaman dipakai",
-                            "image":  "/review/tina.jpg",
-                            "date":  "2025-01-29"
-                        }
-                    ]
-    },
-    {
-        "id":  15,
-        "slug":  "hydra-lip-oil",
-        "title":  "Hydra Lip Oil",
-        "price":  "Rp 149.000",
-        "image":  "/make_up/Hydra_Lip_Oil.jpg",
-        "category":  "makeup",
-        "size":  "6 ml",
-        "description":  "Lip oil for daily lip care.",
-        "howToUse":  "Apply lip oil to your lips using the applicator. Use anytime for moisturized, healthy lips.",
-        "ingredients":  [
-                            "Jojoba Oil",
-                            "Sunflower Seed Oil",
-                            "Vitamin E",
-                            "Squalane",
-                            "Fragrance"
-                        ],
-        "reviews":  [
-                        {
-                            "name":  "Maya",
-                            "rating":  5,
-                            "comment":  "Bibir jadi sehat",
-                            "image":  "/review/maya.jpg",
-                            "date":  "2025-01-30"
-                        },
-                        {
-                            "name":  "Hana",
-                            "rating":  4,
-                            "comment":  "Ga berat",
-                            "image":  "/review/hana.jpg",
-                            "date":  "2025-02-01"
-                        }
-                    ]
-    },
-    {
-        "id":  16,
-        "slug":  "juicy-tint-balm",
-        "title":  "Juicy Tint Balm",
-        "price":  "Rp 99.000",
-        "image":  "/make_up/Juicy_Tint_Balm.jpg",
-        "category":  "makeup",
-        "size":  "3 g",
-        "description":  "Tint balm with natural juicy color.",
-        "howToUse":  "Apply the tint balm to your lips using the applicator. Use anytime for a natural, hydrating color.",
-        "ingredients":  [
-                            "Beeswax",
-                            "Vitamin E",
-                            "Shea Butter",
-                            "Sweet Almond Oil",
-                            "Iron Oxides"
-                        ],
-        "reviews":  [
-                        {
-                            "name":  "Rika",
-                            "rating":  5,
-                            "comment":  "Natural buat daily",
-                            "image":  "/review/rika.jpg",
-                            "date":  "2025-02-02"
-                        },
-                        {
-                            "name":  "Sinta",
-                            "rating":  4,
-                            "comment":  "Lembap banget",
-                            "image":  "/review/sinta.jpg",
-                            "date":  "2025-02-03"
-                        }
-                    ]
-    },
-    {
-        "id":  17,
-        "slug":  "soft-blush-cream",
-        "title":  "Soft Blush Cream",
-        "price":  "Rp 159.000",
-        "image":  "/make_up/Soft_Blush_Cream.jpg",
-        "category":  "makeup",
-        "size":  "6 g",
-        "description":  "Natural cream blush for all skin types.",
-        "howToUse":  "Take a small amount with your finger, tap on your cheeks, then blend evenly. Repeat for a more intense color.",
-        "ingredients":  [
-                            "Shea Butter",
-                            "Dimethicone",
-                            "Vitamin E",
-                            "Mica",
-                            "Iron Oxides"
-                        ],
-        "reviews":  [
-                        {
-                            "name":  "Novi",
-                            "rating":  5,
-                            "comment":  "Blend-nya gampang",
-                            "image":  "/review/novi.jpg",
-                            "date":  "2025-02-04"
-                        },
-                        {
-                            "name":  "Winda",
-                            "rating":  4,
-                            "comment":  "Warna soft",
-                            "image":  "/review/winda.jpg",
-                            "date":  "2025-02-05"
-                        }
-                    ]
-    },
-    {
-        "id":  18,
-        "slug":  "glow-highlighter-stick",
-        "title":  "Glow Highlighter Stick",
-        "price":  "Rp 169.000",
-        "image":  "/make_up/Glow_Highlighter_Stick.jpg",
-        "category":  "makeup",
-        "size":  "5 g",
-        "description":  "Highlighter stick with practical glowing results.",
-        "howToUse":  "Apply highlighter to the parts of your face you want to make glow, such as your cheekbones, nose, and forehead.",
-        "ingredients":  [
-                            "Mica",
-                            "Caprylic Triglyceride",
-                            "Vitamin E",
-                            "Shea Butter"
-                        ],
-        "reviews":  [
-                        {
-                            "name":  "Icha",
-                            "rating":  5,
-                            "comment":  "Glownya natural",
-                            "image":  "/review/icha.jpg",
-                            "date":  "2025-02-06"
-                        },
-                        {
-                            "name":  "Tari",
-                            "rating":  4,
-                            "comment":  "Praktis dibawa",
-                            "image":  "/review/tari.jpg",
-                            "date":  "2025-02-07"
-                        }
-                    ]
-    },
-    {
-        "id":  19,
-        "slug":  "velvet-lip-pencil",
-        "title":  "Velvet Lip Pencil",
-        "price":  "Rp 89.000",
-        "image":  "/make_up/Velvet_Lip_Pencil.jpg",
-        "category":  "makeup",
-        "size":  "1 g",
-        "description":  "Velvet lip pencil for lip definition.",
-        "howToUse":  "Line your lips precisely with the Velvet Lip Pencil, starting at the outer corner and following the natural shape of your lips. Fill in the inner corner or pair with your favorite lipstick for a fuller, longer-lasting look.",
-        "ingredients":  [
-                            "Beeswax",
-                            "Iron Oxides",
-                            "Vitamin E",
-                            "Carnauba Wax"
-                        ],
-        "reviews":  [
-                        {
-                            "name":  "Aini",
-                            "rating":  4,
-                            "comment":  "Tajam tapi lembut",
-                            "image":  "/review/aini.jpg",
-                            "date":  "2025-02-08"
-                        },
-                        {
-                            "name":  "Rosa",
-                            "rating":  5,
-                            "comment":  "Warnanya cakep",
-                            "image":  "/review/rosa.jpg",
-                            "date":  "2025-02-09"
-                        }
-                    ]
-    },
-    {
-        "id":  20,
-        "slug":  "honey-shine-lip-oil",
-        "title":  "Honey Shine Lip Oil",
-        "price":  "Rp 149.000",
-        "image":  "/make_up/Honey_Shine_Lip_Oil.jpg",
-        "category":  "makeup",
-        "size":  "6 ml",
-        "description":  "Lip oil with honey extract for moisturized lips.",
-        "howToUse":  "Apply lip oil to your lips using the applicator. Use anytime for moisturized, healthy lips.",
-        "ingredients":  [
-                            "Honey Extract",
-                            "Jojoba Oil",
-                            "Sunflower Seed Oil",
-                            "Vitamin E",
-                            "Squalane"
-                        ],
-        "reviews":  [
-                        {
-                            "name":  "Putri",
-                            "rating":  5,
-                            "comment":  "Bibir jadi super lembap",
-                            "image":  "/review/fitri.jpg",
-                            "date":  "2025-02-10"
-                        },
-                        {
-                            "name":  "Elsa",
-                            "rating":  4,
-                            "comment":  "Wangi madu lembut",
-                            "image":  "/review/elsa.jpg",
-                            "date":  "2025-02-11"
-                        }
-                    ]
-    },
-    {
-        "id":  21,
-        "slug":  "hydra-glow-serum",
-        "category":  "skincare",
-        "title":  "Hydra Glow Serum",
-        "price":  "Rp 129.000",
-        "image":  "/skin_care/HydraGlowSerum.jpg",
-        "description":  "Serum with hydration booster for glowing, moist and supple skin all day long.",
-        "howToUse":  "Apply serum to your cleansed face. Gently massage until absorbed. Use morning and night for optimal results.",
-        "ingredients":  [
-                            "Hyaluronic Acid",
-                            "Niacinamide",
-                            "Centella Asiatica",
-                            "Ceramide Complex",
-                            "Aloe Vera",
-                            "Panthenol",
-                            "Glycerin",
-                            "Green Tea Extract",
-                            "Licorice Extract"
-                        ],
-        "reviews":  [
-                        {
-                            "name":  "Melati",
-                            "rating":  5,
-                            "comment":  "Kulitku jadi glowing parah! Recommended!",
-                            "image":  "/review/melati.jpg",
-                            "date":  "2025-02-12"
-                        },
-                        {
-                            "name":  "Rara",
-                            "rating":  5,
-                            "comment":  "Teksturnya ringan dan cepat meresap.",
-                            "image":  "/review/rara.jpg",
-                            "date":  "2025-02-13"
-                        }
-                    ]
-    },
-    {
-        "id":  22,
-        "slug":  "soft-facial-wash",
-        "category":  "skincare",
-        "title":  "Soft Facial Wash",
-        "price":  "Rp 89.000",
-        "image":  "/skin_care/SoftFacialWash.jpg",
-        "description":  "Gentle facial wash for all skin types, cleanses without drying out the skin.",
-        "howToUse":  "Wet your face, lather Soft Facial Wash in the palm of your hand, gently massage all over your face, then rinse thoroughly. Use morning and night for fresh and soft skin every day.",
-        "ingredients":  [
-                            "Amino Acid Cleanser",
-                            "Aloe Vera Extract",
-                            "Panthenol",
-                            "Chamomile Extract",
-                            "Glycerin"
-                        ],
-        "reviews":  [
-                        {
-                            "name":  "Tiara",
-                            "rating":  4,
-                            "comment":  "Lembut banget, cocok buat kulit sensitif.",
-                            "image":  "/review/tiara.jpg",
-                            "date":  "2025-02-14"
-                        }
-                    ]
-    },
-    {
-        "id":  23,
-        "slug":  "refresh-toner",
-        "category":  "skincare",
-        "title":  "Refresh Toner",
-        "price":  "Rp 79.000",
-        "image":  "/skin_care/RefreshToner.jpg",
-        "description":  "A refreshing toner that helps hydrate the skin.",
-        "howToUse":  "After cleansing your face, pour Refresh Toner onto a cotton pad and gently swipe over your face and neck. Use morning and night for fresh and hydrated skin.",
-        "ingredients":  [
-                            "Rosella Extract",
-                            "Hyaluronic Acid",
-                            "Vitamin B5",
-                            "Centella Asiatica"
-                        ],
-        "reviews":  [
-                        {
-                            "name":  "Wanda",
-                            "rating":  5,
-                            "comment":  "Aromanya calming, kulit terasa segar.",
-                            "image":  "/review/wanda.jpg",
-                            "date":  "2025-02-15"
-                        }
-                    ]
-    },
-    {
-        "id":  24,
-        "slug":  "day-moisturizer-cream",
-        "category":  "skincare",
-        "title":  "Day Moisturizer Cream",
-        "price":  "Rp 139.000",
-        "image":  "/skin_care/DayMoisturizerCream.jpg",
-        "description":  "Morning moisturizer that provides extra moisture and skin protection.",
-        "howToUse":  "Apply moisturizer to your face and neck after using toner. Gently massage until absorbed. Use every morning before going out.",
-        "ingredients":  [
-                            "Ceramide",
-                            "Peptide",
-                            "Niacinamide",
-                            "Hyaluronic Acid",
-                            "Squalane"
-                        ],
-        "reviews":  [
-                        {
-                            "name":  "Eka",
-                            "rating":  5,
-                            "comment":  "Kulit langsung lembut dan plumpy!",
-                            "image":  "/review/eka.jpg",
-                            "date":  "2025-02-16"
-                        }
-                    ]
-    },
-    {
-        "id":  25,
-        "slug":  "sunscreen-spf-50",
-        "category":  "skincare",
-        "title":  "Sunscreen SPF 50+",
-        "price":  "Rp 99.000",
-        "image":  "/skin_care/SunscreenSPF50+.jpg",
-        "description":  "Sunscreen SPF 50+ with a light formula and does not leave a white cast.",
-        "howToUse":  "Apply sunscreen to your face and neck after using moisturizer. Gently massage until absorbed. Use every morning before going out.",
-        "ingredients":  [
-                            "UV Filter Complex",
-                            "Niacinamide",
-                            "Aloe Vera",
-                            "Green Tea Extract"
-                        ],
-        "reviews":  [
-                        {
-                            "name":  "Sarah",
-                            "rating":  5,
-                            "comment":  "Terlalu bagus! Gak white cast sama sekali.",
-                            "image":  "/review/sarah.jpg",
-                            "date":  "2025-02-17"
-                        }
-                    ]
-    },
-    {
-        "id":  26,
-        "slug":  "night-repair-cream",
-        "category":  "skincare",
-        "title":  "Night Repair Cream",
-        "price":  "Rp 149.000",
-        "image":  "/skin_care/NightRepairCream.jpg",
-        "description":  "A night cream that repairs and regenerates skin while you sleep.",
-        "howToUse":  "Apply the night cream to your face and neck before bed. Gently massage until absorbed for best results.",
-        "ingredients":  [
-                            "Retinol",
-                            "Peptide Complex",
-                            "Ceramide",
-                            "Hyaluronic Acid",
-                            "Vitamin E"
-                        ],
-        "reviews":  [
-                        {
-                            "name":  "Diana",
-                            "rating":  4,
-                            "comment":  "Kulitku terasa lebih halus di pagi hari.",
-                            "image":  "/review/diana.jpg",
-                            "date":  "2025-02-18"
-                        }
-                    ]
-    },
-    {
-        "id":  27,
-        "slug":  "bright-eye-cream",
-        "category":  "skincare",
-        "title":  "Bright Eye Cream",
-        "price":  "Rp 119.000",
-        "image":  "/skin_care/BrightEyeCream.jpg",
-        "description":  "An eye cream that brightens and reduces dark circles under the eyes.",
-        "howToUse":  "Gently apply eye cream to the area around your eyes using your ring finger. Use morning and night for optimal results.",
-        "ingredients":  [
-                            "Vitamin C",
-                            "Caffeine",
-                            "Peptide",
-                            "Hyaluronic Acid",
-                            "Niacinamide"
-                        ],
-        "reviews":  [
-                        {
-                            "name":  "Lia",
-                            "rating":  5,
-                            "comment":  "Mata aku jadi lebih cerah dan segar!",
-                            "image":  "/review/lia.jpg",
-                            "date":  "2025-02-19"
-                        }
-                    ]
-    },
-    {
-        "id":  28,
-        "slug":  "moisture-boost-sheet-mask",
-        "category":  "skincare",
-        "title":  "Moisture Boost Sheet Mask",
-        "price":  "Rp 25.000",
-        "image":  "/skin_care/MoistureBoostSheetMask.jpg",
-        "description":  "Sheet mask with hydrating essence for moisturized and fresh skin.",
-        "howToUse":  "Apply the sheet mask to a cleansed face. Leave on for 15-20 minutes, then remove and gently pat remaining essence until absorbed.",
-        "ingredients":  [
-                            "Hyaluronic Acid",
-                            "Aloe Vera",
-                            "Glycerin",
-                            "Vitamin E",
-                            "Green Tea Extract"
-                        ],
-        "reviews":  [
-                        {
-                            "name":  "Risna",
-                            "rating":  4,
-                            "comment":  "Kulitku jadi super lembap setelah pakai ini.",
-                            "image":  "/review/risna.jpg",
-                            "date":  "2025-02-20"
-                        }
-                    ]
-    },
-    {
-        "id":  29,
-        "slug":  "anti-hair-loss-shampoo",
-        "category":  "haircare",
-        "title":  "Anti-Hair Loss Shampoo",
-        "price":  "Rp 129.000",
-        "image":  "/hair_care/Anti-HairLossShampoo.jpg",
-        "description":  "Shampoo that helps reduce hair loss and strengthens hair roots.",
-        "howToUse":  "Wet hair, pour Anti-Hair Loss Shampoo into your palms, gently massage throughout hair, then rinse thoroughly. Use 2-3 times a week for optimal results.",
-        "ingredients":  [
-                            "Biotin",
-                            "Caffeine",
-                            "Saw Palmetto Extract",
-                            "Panthenol",
-                            "Niacinamide"
-                        ],
-        "reviews":  [
-                        {
-                            "name":  "Syahnaz",
-                            "rating":  5,
-                            "comment":  "Rambutku jadi lebih kuat dan rontoknya berkurang!",
-                            "image":  "/review/syahnaz1.jpg",
-                            "date":  "2025-02-21"
-                        }
-                    ]
-    },
-    {
-        "id":  30,
-        "slug":  "anti-dandruff-shampoo",
-        "category":  "haircare",
-        "title":  "Anti-Dandruff Shampoo",
-        "price":  "Rp 119.000",
-        "image":  "/hair_care/Anti-DandruffShampoo.jpg",
-        "description":  "Shampoo that effectively treats dandruff and maintains scalp health.",
-        "howToUse":  "Wet hair, pour Anti-Dandruff Shampoo into your palms, gently massage throughout hair, then rinse thoroughly. Use 2-3 times a week for optimal results.",
-        "ingredients":  [
-                            "Zinc Pyrithione",
-                            "Tea Tree Oil",
-                            "Salicylic Acid",
-                            "Panthenol",
-                            "Aloe Vera Extract"
-                        ],
-        "reviews":  [
-                        {
-                            "name":  "Lina",
-                            "rating":  5,
-                            "comment":  "Ketombe hilang dan kulit kepalaku jadi sehat!",
-                            "image":  "/review/lina_hair.jpg",
-                            "date":  "2025-02-22"
-                        }
-                    ]
-    },
-    {
-        "id":  31,
-        "slug":  "gentle-hair-essence-shampoo",
-        "category":  "haircare",
-        "title":  "Gentle Hair Essence Shampoo (Non-SLS)",
-        "price":  "Rp 139.000",
-        "image":  "/hair_care/GentleHairEssenceShampoo.jpg",
-        "description":  "A gentle, SLS-free shampoo that cleanses hair without stripping natural oils.",
-        "howToUse":  "Wet hair, pour Gentle Hair Essence Shampoo into your palms, gently massage throughout hair, then rinse thoroughly. Use 2-3 times a week for optimal results.",
-        "ingredients":  [
-                            "Cocamidopropyl Betaine",
-                            "Aloe Vera Extract",
-                            "Panthenol",
-                            "Hydrolyzed Keratin"
-                        ],
-        "reviews":  [
-                        {
-                            "name":  "Mira",
-                            "rating":  5,
-                            "comment":  "Rambutku jadi lembut dan gak kering setelah pakai ini.",
-                            "image":  "/review/mira_hair.jpg",
-                            "date":  "2025-02-23"
-                        }
-                    ]
-    },
-    {
-        "id":  32,
-        "slug":  "hair-revitalizer-mist",
-        "category":  "haircare",
-        "title":  "Hair Revitalizer Mist",
-        "price":  "Rp 109.000",
-        "image":  "/hair_care/HairRevitalizerMist.jpg",
-        "description":  "A hair refreshing mist that provides extra nutrition and moisture.",
-        "howToUse":  "Spray Hair Revitalizer Mist on clean hair and scalp. Use anytime to refresh and nourish hair.",
-        "ingredients":  [
-                            "Argan Oil",
-                            "Vitamin E",
-                            "Panthenol",
-                            "Aloe Vera Extract"
-                        ],
-        "reviews":  [
-                        {
-                            "name":  "Nina",
-                            "rating":  4,
-                            "comment":  "Rambutku terasa lebih segar dan wangi sepanjang hari.",
-                            "image":  "/review/nina_hair.jpg",
-                            "date":  "2025-02-24"
-                        }
-                    ]
-    },
-    {
-        "id":  33,
-        "slug":  "intensive-hair-mask",
-        "category":  "haircare",
-        "title":  "Intensive Hair Mask",
-        "price":  "Rp 149.000",
-        "image":  "/hair_care/IntensiveHairMask.jpg",
-        "description":  "An intensive hair mask that repairs damage and provides deep moisture.",
-        "howToUse":  "Apply Intensive Hair Mask to clean hair. Leave on for 5-10 minutes, then rinse thoroughly. Use 1-2 times a week for optimal results.",
-        "ingredients":  [
-                            "Keratin",
-                            "Argan Oil",
-                            "Shea Butter",
-                            "Panthenol",
-                            "Vitamin E"
-                        ],
-        "reviews":  [
-                        {
-                            "name":  "Vino",
-                            "rating":  5,
-                            "comment":  "Rambutku jadi halus dan mudah diatur setelah pakai ini.",
-                            "image":  "/review/vino_hair.jpg",
-                            "date":  "2025-02-25"
-                        }
-                    ]
-    },
-    {
-        "id":  34,
-        "slug":  "candlenut-oil",
-        "category":  "haircare",
-        "title":  "Candlenut Oil",
-        "price":  "Rp 89.000",
-        "image":  "/hair_care/CandlenutOil.jpg",
-        "description":  "Pure candlenut oil to care for and strengthen hair from root to tip.",
-        "howToUse":  "Apply candlenut oil to clean hair and scalp. Leave on for 30 minutes until absorbed, then rinse thoroughly. Use 2-3 times a week for optimal results.",
-        "ingredients":  [
-                            "Candlenut Oil"
-                        ],
-        "reviews":  [
-                        {
-                            "name":  "Lewi",
-                            "rating":  5,
-                            "comment":  "Rambutku jadi lebih tebal dan kuat setelah rutin pakai minyak kemiri ini.",
-                            "image":  "/review/lewi_hair.jpg",
-                            "date":  "2025-02-26"
-                        }
-                    ]
-    },
-    {
-        "id":  35,
-        "slug":  "smooth-shine-shampoo",
-        "category":  "haircare",
-        "title":  "Smooth \u0026 Shine Shampoo",
-        "price":  "Rp 99.000",
-        "image":  "/hair_care/SmoothShineShampoo.jpg",
-        "description":  "Shampoo that gives natural shine and softness to tangled hair.",
-        "howToUse":  "Wet hair, pour Smooth \u0026 Shine Shampoo into your palms, gently massage throughout hair, then rinse thoroughly. Use 2-3 times a week for optimal results.",
-        "ingredients":  [
-                            "Argan Oil",
-                            "Silicone Complex",
-                            "Panthenol",
-                            "Aloe Vera Extract"
-                        ],
-        "reviews":  [
-                        {
-                            "name":  "Fadil",
-                            "rating":  4,
-                            "comment":  "Rambutku jadi lebih berkilau dan mudah diatur.",
-                            "image":  "/review/Fadil.jpg",
-                            "date":  "2025-02-27"
-                        }
-                    ]
-    },
-    {
-        "id":  36,
-        "slug":  "nourishing-conditioner",
-        "category":  "haircare",
-        "title":  "Nourishing Conditioner",
-        "price":  "Rp 109.000",
-        "image":  "/hair_care/NourishingConditioner.jpg",
-        "description":  "Conditioner that provides nutrition and moisture for healthy and shiny hair.",
-        "howToUse":  "Apply Nourishing Conditioner to clean hair. Leave on for 2-3 minutes, then rinse thoroughly. Use every time you wash your hair for optimal results.",
-        "ingredients":  [
-                            "Shea Butter",
-                            "Argan Oil",
-                            "Panthenol",
-                            "Hydrolyzed Keratin"
-                        ],
-        "reviews":  [
-                        {
-                            "name":  "Arin",
-                            "rating":  5,
-                            "comment":  "Rambutku terasa lembut dan mudah diatur setelah pakai ini.",
-                            "image":  "/review/Arina_hair.jpg",
-                            "date":  "2025-02-28"
-                        }
-                    ]
-    },
-    {
-        "id":  37,
-        "slug":  "hair-vitamin-serum",
-        "category":  "haircare",
-        "title":  "Hair Vitamin Serum",
-        "price":  "Rp 129.000",
-        "image":  "/hair_care/HairVitaminSerum.jpg",
-        "description":  "Hair vitamin serum that nourishes and protects hair from damage.",
-        "howToUse":  "Apply Hair Vitamin Serum to clean hair and scalp. Gently massage until absorbed. Use daily for optimal results.",
-        "ingredients":  [
-                            "Vitamin E",
-                            "Argan Oil",
-                            "Panthenol",
-                            "Silicone Complex"
-                        ],
-        "reviews":  [
-                        {
-                            "name":  "Sazuke",
-                            "rating":  5,
-                            "comment":  "Rambutku jadi lebih sehat dan berkilau setelah pakai serum ini.",
-                            "image":  "/review/Sazuke.jpg",
-                            "date":  "2025-02-29"
-                        }
-                    ]
-    },
-    {
-        "id":  38,
-        "slug":  "moisture-repair-hair-mask",
-        "category":  "haircare",
-        "title":  "Moisture Repair Hair Mask",
-        "price":  "Rp 149.000",
-        "image":  "/hair_care/MoistureRepairHairMask.jpg",
-        "description":  "A hair mask that repairs damage and provides deep moisture.",
-        "howToUse":  "Apply the Moisture Repair Hair Mask to cleansed hair. Leave it on for 5-10 minutes, then rinse thoroughly. Use once or twice a week for optimal results.",
-        "ingredients":  [
-                            "Keratin",
-                            "Shea Butter",
-                            "Argan Oil",
-                            "Panthenol",
-                            "Vitamin E"
-                        ],
-        "reviews":  [
-                        {
-                            "name":  "Lila",
-                            "rating":  5,
-                            "comment":  "Rambutku jadi halus dan mudah diatur setelah pakai masker ini.",
-                            "image":  "/review/lila_hair.jpg",
-                            "date":  "2025-02-30"
-                        }
-                    ]
-    },
-    {
-        "id":  39,
-        "slug":  "anti-frizz-spray",
-        "category":  "haircare",
-        "title":  "Anti-Frizz Spray",
-        "price":  "Rp 89.000",
-        "image":  "/hair_care/Anti-FrizzSpray.jpg",
-        "description":  "Anti-frizz spray that smoothes hair and protects against humidity.",
-        "howToUse":  "Spray Anti-Frizz Spray onto towel-dried hair. Smooth it out with your hands or a comb. Use before or after styling to reduce frizz and maintain moisture.",
-        "ingredients":  [
-                            "Silicone Complex",
-                            "Argan Oil",
-                            "Panthenol"
-                        ],
-        "reviews":  [
-                        {
-                            "name":  "Titan",
-                            "rating":  4,
-                            "comment":  "Rambutku jadi lebih halus dan gak kusut.",
-                            "image":  "/review/titan_hair.jpg",
-                            "date":  "2025-03-01"
-                        }
-                    ]
-    },
-    {
-        "id":  40,
-        "slug":  "scalp-refresh-tonic",
-        "category":  "haircare",
-        "title":  "Scalp Refresh Tonic",
-        "price":  "Rp 119.000",
-        "image":  "/hair_care/ScalpRefreshTonic.jpg",
-        "description":  "A soothing scalp tonic that soothes and reduces itching.",
-        "howToUse":  "Apply Scalp Refresh Tonic to a cleansed scalp. Gently massage until absorbed. Use daily for optimal results.",
-        "ingredients":  [
-                            "Tea Tree Oil",
-                            "Peppermint Extract",
-                            "Aloe Vera Extract",
-                            "Panthenol"
-                        ],
-        "reviews":  [
-                        {
-                            "name":  "Yuli",
-                            "rating":  5,
-                            "comment":  "Kulit kepalaku jadi segar dan gatalnya berkurang.",
-                            "image":  "/review/yuli_hair.jpg",
-                            "date":  "2025-03-02"
-                        }
-                    ]
-    },
-    {
-        "id":  41,
-        "slug":  "hair-strengthening-oil",
-        "category":  "haircare",
-        "title":  "Hair Strengthening Oil",
-        "price":  "Rp 139.000",
-        "image":  "/hair_care/HairStrengtheningOil.jpg",
-        "description":  "Hair strengthening oil that prevents damage and breakage.",
-        "howToUse":  "Apply Hair Strengthening Oil to clean hair and scalp. Massage gently until absorbed. Use daily for optimal results.",
-        "ingredients":  [
-                            "Castor Oil",
-                            "Argan Oil",
-                            "Vitamin E",
-                            "Panthenol"
-                        ],
-        "reviews":  [
-                        {
-                            "name":  "Vio",
-                            "rating":  5,
-                            "comment":  "Rambutku jadi lebih kuat dan gak gampang patah.",
-                            "image":  "/review/Vio.jpg",
-                            "date":  "2025-03-03"
-                        }
-                    ]
-    },
-    {
-        "id":  42,
-        "slug":  "heat-protection-mist",
-        "category":  "haircare",
-        "title":  "Heat Protection Mist",
-        "price":  "Rp 99.000",
-        "image":  "/hair_care/HeatProtectionMist.jpg",
-        "description":  "A heat protection mist that protects hair from damage caused by styling tools.",
-        "howToUse":  "Spray Heat Protection Mist onto towel-dried hair. Use before styling with heated tools to protect hair from damage.",
-        "ingredients":  [
-                            "Silicone Complex",
-                            "Panthenol",
-                            "Argan Oil"
-                        ],
-        "reviews":  [
-                        {
-                            "name":  "Naia",
-                            "rating":  4,
-                            "comment":  "Rambutku terlindungi saat styling dengan alat panas.",
-                            "image":  "/review/Naia.jpg",
-                            "date":  "2025-03-04"
-                        }
-                    ]
-    },
-    {
-        "id":  43,
-        "slug":  "hair-tonic",
-        "category":  "haircare",
-        "title":  "Hair Tonic",
-        "price":  "Rp 99.000",
-        "image":  "/hair_care/HairTonic.jpg",
-        "description":  "A hair refreshing tonic that provides extra nutrition and moisture.",
-        "howToUse":  "Apply Hair Tonic to clean hair and scalp. Massage gently until absorbed. Use daily for optimal results.",
-        "ingredients":  [
-                            "Ginseng Extract",
-                            "Vitamin E",
-                            "Panthenol",
-                            "Aloe Vera Extract"
-                        ],
-        "reviews":  [
-                        {
-                            "name":  "Rendi",
-                            "rating":  5,
-                            "comment":  "Rambutku terasa lebih segar dan wangi sepanjang hari.",
-                            "image":  "/review/rendi_hair.jpg",
-                            "date":  "2025-03-05"
-                        }
-                    ]
-    },
-    {
-        "id":  44,
-        "slug":  "silky-smooth-leave-in-conditioner",
-        "category":  "haircare",
-        "title":  "Silky Smooth Leave-In Conditioner",
-        "price":  "Rp 129.000",
-        "image":  "/hair_care/SilkySmoothLeave-InConditioner.jpg",
-        "description":  "Leave-in conditioner that provides softness and shine to frizzy hair.",
-        "howToUse":  "Apply Silky Smooth Leave-In Conditioner to clean, towel-dried hair. Smooth it out with your hands or a comb. Use every time after washing for optimal results.",
-        "ingredients":  [
-                            "Shea Butter",
-                            "Argan Oil",
-                            "Panthenol",
-                            "Hydrolyzed Keratin"
-                        ],
-        "reviews":  [
-                        {
-                            "name":  "Susi",
-                            "rating":  5,
-                            "comment":  "Rambutku jadi lembut dan berkilau sepanjang hari.",
-                            "image":  "/review/susi_hair.jpg",
-                            "date":  "2025-03-06"
-                        }
-                    ]
-    },
-    {
-        "id":  45,
-        "slug":  "lightweight-body-lotion",
-        "category":  "bodycare",
-        "title":  "Lightweight Body Lotion",
-        "price":  "Rp 89.000",
-        "image":  "/body_care/LightweightBodyLotion.jpg",
-        "description":  "A lightweight body lotion that absorbs quickly and provides moisture all day long.",
-        "howToUse":  "Apply Lightweight Body Lotion to cleansed skin. Massage gently until absorbed. Use daily for optimal results.",
-        "ingredients":  [
-                            "Glycerin",
-                            "Aloe Vera Extract",
-                            "Shea Butter",
-                            "Vitamin E",
-                            "Jojoba Oil"
-                        ],
-        "reviews":  [
-                        {
-                            "name":  "Al",
-                            "rating":  5,
-                            "comment":  "Lotion ini cepat meresap dan gak lengket di kulit.",
-                            "image":  "/review/al_body.jpg",
-                            "date":  "2025-03-07"
-                        }
-                    ]
-    },
-    {
-        "id":  46,
-        "slug":  "ultra-moist-body-cream",
-        "category":  "bodycare",
-        "title":  "Ultra Moist Body Cream",
-        "price":  "Rp 109.000",
-        "image":  "/body_care/UltraMoistBodyCream.jpg",
-        "description":  "Body cream with ultra-moisturizing formula for very dry skin.",
-        "howToUse":  "Apply Ultra Moist Body Cream to cleansed skin. Gently massage until absorbed. Use daily for optimal results.",
-        "ingredients":  [
-                            "Shea Butter",
-                            "Cocoa Butter",
-                            "Glycerin",
-                            "Vitamin E",
-                            "Jojoba Oil"
-                        ],
-        "reviews":  [
-                        {
-                            "name":  "Bella",
-                            "rating":  5,
-                            "comment":  "Kulitku yang sangat kering jadi lembap dan halus setelah pakai ini.",
-                            "image":  "/review/bella_body.jpg",
-                            "date":  "2025-03-08"
-                        }
-                    ]
-    },
-    {
-        "id":  47,
-        "slug":  "intense-repair-body-butter",
-        "category":  "bodycare",
-        "title":  "Intense Repair Body Butter",
-        "price":  "Rp 129.000",
-        "image":  "/body_care/IntenseRepairBodyButter.jpg",
-        "description":  "Nutrient-rich body butter to repair and moisturize very dry skin.",
-        "howToUse":  "Apply Intense Repair Body Butter to cleansed skin. Gently massage until absorbed. Use daily for optimal results.",
-        "ingredients":  [
-                            "Shea Butter",
-                            "Cocoa Butter",
-                            "Vitamin E",
-                            "Jojoba Oil",
-                            "Almond Oil"
-                        ],
-        "reviews":  [
-                        {
-                            "name":  "Fitrah",
-                            "rating":  5,
-                            "comment":  "Body butter ini sangat efektif untuk kulitku yang super kering.",
-                            "image":  "/review/Fitrah.jpg",
-                            "date":  "2025-03-09"
-                        }
-                    ]
-    },
-    {
-        "id":  48,
-        "slug":  "nourishing-body-oil",
-        "category":  "bodycare",
-        "title":  "Nourishing Body Oil",
-        "price":  "Rp 119.000",
-        "image":  "/body_care/NourishingBodyOil.jpg",
-        "description":  "A body oil that nourishes and moisturizes dry skin.",
-        "howToUse":  "Apply Nourishing Body Oil to cleansed skin. Gently massage until absorbed. Use daily for optimal results.",
-        "ingredients":  [
-                            "Jojoba Oil",
-                            "Almond Oil",
-                            "Vitamin E",
-                            "Argan Oil"
-                        ],
-        "reviews":  [
-                        {
-                            "name":  "Dinar",
-                            "rating":  4,
-                            "comment":  "Kulitku terasa lebih lembap dan kenyal setelah pakai minyak ini.",
-                            "image":  "/review/dinar_body.jpg",
-                            "date":  "2025-03-10"
-                        }
-                    ]
-    },
-    {
-        "id":  49,
-        "slug":  "brightening-body-serum",
-        "category":  "bodycare",
-        "title":  "Brightening Body Serum",
-        "price":  "Rp 135.000",
-        "image":  "/body_care/BrighteningBodySerum.jpg",
-        "description":  "A body serum that brightens and evens out skin tone.",
-        "howToUse":  "Apply Brightening Body Serum to cleansed skin. Gently massage until absorbed. Use daily for optimal results.",
-        "ingredients":  [
-                            "Vitamin C",
-                            "Niacinamide",
-                            "Aloe Vera Extract",
-                            "Glycerin"
-                        ],
-        "reviews":  [
-                        {
-                            "name":  "Fiore",
-                            "rating":  5,
-                            "comment":  "Kulitku jadi lebih cerah dan merata setelah rutin pakai serum ini.",
-                            "image":  "/review/Fiore.jpg",
-                            "date":  "2025-03-11"
-                        }
-                    ]
-    },
-    {
-        "id":  50,
-        "slug":  "soft-hand-cream",
-        "category":  "bodycare",
-        "title":  "Soft Hand Cream",
-        "price":  "Rp 49.000",
-        "image":  "/body_care/SoftHandCream.jpg",
-        "description":  "A gentle hand cream that moisturizes and protects dry hand skin.",
-        "howToUse":  "Apply Soft Hand Cream to cleansed skin. Gently massage until absorbed. Use daily for optimal results.",
-        "ingredients":  [
-                            "Shea Butter",
-                            "Glycerin",
-                            "Vitamin E",
-                            "Aloe Vera Extract"
-                        ],
-        "reviews":  [
-                        {
-                            "name":  "Gina",
-                            "rating":  5,
-                            "comment":  "Tangan aku jadi lembut dan gak kering lagi.",
-                            "image":  "/review/gina_body.jpg",
-                            "date":  "2025-03-12"
-                        }
-                    ]
-    },
-    {
-        "id":  51,
-        "slug":  "refreshing-body-wash",
-        "category":  "bodycare",
-        "title":  "Refreshing Body Wash",
-        "price":  "Rp 79.000",
-        "image":  "/body_care/RefreshingBodyWash.jpg",
-        "description":  "A refreshing body wash that cleanses the skin without drying it out.",
-        "howToUse":  "Apply Refreshing Body Wash to cleansed skin. Rinse thoroughly. Use daily for optimal results.",
-        "ingredients":  [
-                            "Aloe Vera Extract",
-                            "Glycerin",
-                            "Chamomile Extract",
-                            "Vitamin E"
-                        ],
-        "reviews":  [
-                        {
-                            "name":  "Hani",
-                            "rating":  4,
-                            "comment":  "Bikin kulit terasa segar dan bersih setelah mandi.",
-                            "image":  "/review/hani_body.jpg",
-                            "date":  "2025-03-13"
-                        }
-                    ]
-    },
-    {
-        "id":  52,
-        "slug":  "gentle-exfoliating-body-scrub",
-        "category":  "bodycare",
-        "title":  "Gentle Exfoliating Body Scrub",
-        "price":  "Rp 99.000",
-        "image":  "/body_care/GentleExfoliatingBodyScrub.jpg",
-        "description":  "A gentle body scrub that removes dead skin cells and makes skin smooth.",
-        "howToUse":  "Apply Gentle Exfoliating Body Scrub to wet skin. Massage gently in circular motions, then rinse thoroughly. Use 2-3 times a week for optimal results.",
-        "ingredients":  [
-                            "Sugar Granules",
-                            "Jojoba Beads",
-                            "Shea Butter",
-                            "Vitamin E",
-                            "Aloe Vera Extract"
-                        ],
-        "reviews":  [
-                        {
-                            "name":  "Indah",
-                            "rating":  5,
-                            "comment":  "Kulitku jadi halus dan cerah setelah pakai scrub ini.",
-                            "image":  "/review/indah_body.jpg",
-                            "date":  "2025-03-14"
-                        }
-                    ]
-    },
-    {
-        "id":  53,
-        "slug":  "floral-breeze-body-mist",
-        "category":  "bodycare",
-        "title":  "Floral Breeze Body Mist",
-        "price":  "Rp 75.000",
-        "image":  "/body_care/FloralBreezeBodyMist.jpg",
-        "description":  "Body mist with a refreshing floral scent that lasts all day long.",
-        "howToUse":  "Spray Floral Breeze Body Mist on cleansed skin. Use daily for optimal results.",
-        "ingredients":  [
-                            "Aqua",
-                            "Fragrance",
-                            "Glycerin",
-                            "Aloe Vera Extract"
-                        ],
-        "reviews":  [
-                        {
-                            "name":  "Jesse",
-                            "rating":  5,
-                            "comment":  "Wanginya enak dan tahan lama.",
-                            "image":  "/review/jesse_body.jpg",
-                            "date":  "2025-03-15"
-                        }
-                    ]
-    },
-    {
-        "id":  54,
-        "slug":  "sweet-vanilla-body-mist",
-        "category":  "bodycare",
-        "title":  "Sweet Vanilla Body Mist",
-        "price":  "Rp 75.000",
-        "image":  "/body_care/SweetVanillaBodyMist.jpg",
-        "description":  "Body mist with an alluring sweet vanilla scent.",
-        "howToUse":  "Spray Sweet Vanilla Body Mist on cleansed skin. Use daily for optimal results.",
-        "ingredients":  [
-                            "Aqua",
-                            "Fragrance",
-                            "Glycerin",
-                            "Aloe Vera Extract"
-                        ],
-        "reviews":  [
-                        {
-                            "name":  "Kiki",
-                            "rating":  4,
-                            "comment":  "Wanginya manis dan enak banget.",
-                            "image":  "/review/kiki_body.jpg",
-                            "date":  "2025-03-16"
-                        }
-                    ]
-    },
-    {
-        "id":  55,
-        "slug":  "uv-shield-body-sunscreen-spf-50",
-        "category":  "bodycare",
-        "title":  "UV Shield Body Sunscreen SPF 50",
-        "price":  "Rp 129.000",
-        "image":  "/body_care/UVShieldBodySunscreenSPF50.jpg",
-        "description":  "Body sunscreen with SPF 50 that protects skin from harmful UV rays.",
-        "howToUse":  "Apply UV Shield Body Sunscreen SPF 50 evenly on sun-exposed skin. Apply 15 minutes before outdoor activities and reapply every 2 hours or after swimming or sweating.",
-        "ingredients":  [
-                            "UV Filter Complex",
-                            "Niacinamide",
-                            "Aloe Vera Extract",
-                            "Vitamin E"
-                        ],
-        "reviews":  [
-                        {
-                            "name":  "Lunam",
-                            "rating":  5,
-                            "comment":  "Sunscreen ini gak lengket dan melindungi kulitku dengan baik.",
-                            "image":  "/review/lunam_body.jpg",
-                            "date":  "2025-03-17"
-                        }
-                    ]
-    },
-    {
-        "id":  56,
-        "slug":  "cooling-foot-cream",
-        "category":  "bodycare",
-        "title":  "Cooling Foot Cream",
-        "price":  "Rp 55.000",
-        "image":  "/body_care/CoolingFootCream.jpg",
-        "description":  "Foot cream with a cooling effect that refreshes and moisturizes the skin of the feet.",
-        "howToUse":  "Apply Cooling Foot Cream to cleansed skin of the feet. Massage gently until absorbed. Use daily for optimal results.",
-        "ingredients":  [
-                            "Menthol",
-                            "Glycerin",
-                            "Shea Butter",
-                            "Aloe Vera Extract"
-                        ],
-        "reviews":  [
-                        {
-                            "name":  "Molly",
-                            "rating":  5,
-                            "comment":  "Kaki aku jadi segar dan gak pegal lagi setelah pakai krim ini.",
-                            "image":  "/review/molly_body.jpg",
-                            "date":  "2025-03-18"
-                        }
-                    ]
-    },
-    {
-        "id":  57,
-        "slug":  "nourishing-cuticle-oil",
-        "category":  "nailcare",
-        "title":  "Nourishing Cuticle Oil",
-        "price":  "Rp 45.000",
-        "image":  "/nail_care/NourishingCuticleOil.jpg",
-        "description":  "Cuticle oil that nourishes and moisturizes cuticles and nails.",
-        "howToUse":  "Apply Nourishing Cuticle Oil to cleansed cuticles and nails. Massage gently until absorbed. Use daily for optimal results.",
-        "ingredients":  [
-                            "Jojoba Oil",
-                            "Vitamin E",
-                            "Almond Oil",
-                            "Argan Oil"
-                        ],
-        "reviews":  [
-                        {
-                            "name":  "Nia",
-                            "rating":  5,
-                            "comment":  "Kutikula aku jadi lembut dan kuku terlihat lebih sehat.",
-                            "image":  "/review/nia_nail.jpg",
-                            "date":  "2025-03-19"
-                        }
-                    ]
-    },
-    {
-        "id":  58,
-        "slug":  "soft-cuticle-repair-cream",
-        "category":  "nailcare",
-        "title":  "Soft Cuticle Repair Cream",
-        "price":  "Rp 49.000",
-        "image":  "/nail_care/SoftCuticleRepairCream.jpg",
-        "description":  "Cuticle repair cream that moisturizes and repairs dry and damaged cuticles.",
-        "howToUse":  "Apply Soft Cuticle Repair Cream to cleansed cuticles and nails. Massage gently until absorbed. Use daily for optimal results.",
-        "ingredients":  [
-                            "Shea Butter",
-                            "Vitamin E",
-                            "Jojoba Oil",
-                            "Aloe Vera Extract"
-                        ],
-        "reviews":  [
-                        {
-                            "name":  "Oni",
-                            "rating":  4,
-                            "comment":  "Kutikula aku jadi lebih sehat dan gak kering lagi.",
-                            "image":  "/review/oni_nail.jpg",
-                            "date":  "2025-03-20"
-                        }
-                    ]
-    },
-    {
-        "id":  59,
-        "slug":  "gentle-cuticle-remover",
-        "category":  "nailcare",
-        "title":  "Gentle Cuticle Remover",
-        "price":  "Rp 39.000",
-        "image":  "/nail_care/GentleCuticleRemover.jpg",
-        "description":  "A gentle and effective cuticle remover that lifts cuticles without damaging nails.",
-        "howToUse":  "Apply Gentle Cuticle Remover to cleansed cuticles. Leave for 1-2 minutes, then gently lift cuticles with a tool or your fingers. Rinse thoroughly. Use daily for optimal results.",
-        "ingredients":  [
-                            "Lactic Acid",
-                            "Aloe Vera Extract",
-                            "Glycerin"
-                        ],
-        "reviews":  [
-                        {
-                            "name":  "Pian",
-                            "rating":  5,
-                            "comment":  "Kutikula aku jadi rapi dan mudah diatur setelah pakai ini.",
-                            "image":  "/review/pian_nail.jpg",
-                            "date":  "2025-03-21"
-                        }
-                    ]
-    },
-    {
-        "id": 60,
-        "slug":  "protein-nail-strengthener",
-        "category":  "nailcare",
-        "title":  "Protein Nail Strengthener",
-        "price":  "Rp 55.000",
-        "image":  "/nail_care/ProteinNailStrengthener.jpg",
-        "description":  "Protein-based nail strengthener that strengthens and protects brittle and brittle nails.",
-        "howToUse":  "Apply Protein Nail Strengthener to cleansed nails. Massage gently until absorbed. Use daily for optimal results.",
-        "ingredients":  [
-                            "Hydrolyzed Keratin",
-                            "Calcium",
-                            "Vitamin E",
-                            "Panthenol"
-                        ],
-        "reviews":  [
-                        {
-                            "name":  "Rara",
-                            "rating":  5,
-                            "comment":  "Kukuku jadi lebih kuat dan gak gampang patah setelah pakai ini.",
-                            "image":  "/review/rara_nail.jpg",
-                            "date":  "2025-03-22"
-                        }
-                    ]
-    },
-    {
-        "id":  61,
-        "slug":  "natural-shine-nail-buffer",
-        "category":  "nailcare",
-        "title":  "Natural Shine Nail Buffer",
-        "price":  "Rp 29.000",
-        "image":  "/nail_care/NaturalShineNailBuffer.jpg",
-        "description":  "Nail buffer that gives natural shine to nails without the need for nail polish.",
-        "howToUse":  "Gently rub the surface of the nails with the Natural Shine Nail Buffer until smooth and naturally shiny.",
-        "ingredients":  [
-                            "Fine Grit Surface"
-                        ],
-        "reviews":  [
-                        {
-                            "name":  "Asa",
-                            "rating":  4,
-                            "comment":  "Kukuku jadi berkilau alami setelah di-buffer dengan ini.",
-                            "image":  "/review/asa_nail.jpg",
-                            "date":  "2025-03-23"
-                        }
-                    ]
-    },
-    {
-        "id":  62,
-        "slug":  "protective-base-coat",
-        "category":  "nailcare",
-        "title":  "Protective Base Coat",
-        "price":  "Rp 39.000",
-        "image":  "/nail_care/ProtectiveBaseCoat.jpg",
-        "description":  "A protective base coat that protects nails from stains and extends the durability of nail polish.",
-        "howToUse":  "Apply Protective Base Coat to cleansed nails. Massage gently until absorbed. Use daily for optimal results.",
-        "ingredients":  [
-                            "Film-Forming Agents",
-                            "Vitamin E",
-                            "Panthenol"
-                        ],
-        "reviews":  [
-                        {
-                            "name":  "Tantis",
-                            "rating":  5,
-                            "comment":  "Kukuku terlindungi dengan baik dan cat kuku tahan lama.",
-                            "image":  "/review/tantis_nail.jpg",
-                            "date":  "2025-03-24"
-                        }
-                    ]
-    },
-    {
-        "id":  63,
-        "slug":  "color-nail-polish-rose-nude",
-        "category":  "nailcare",
-        "title":  "Color Nail Polish – Rose Nude",
-        "price":  "Rp 45.000",
-        "image":  "/nail_care/ColorNailPolish–RoseNude.jpg",
-        "description":  "Rose Nude nail polish that gives a natural and elegant look.",
-        "howToUse":  "Apply Color Nail Polish – Rose Nude to cleansed nails. Gently massage until absorbed. Use daily for optimal results.",
-        "ingredients":  [
-                            "Nitrocellulose",
-                            "Butyl Acetate",
-                            "Ethyl Acetate",
-                            "Adhesive Polymers",
-                            "Color Pigments"
-                        ],
-        "reviews":  [
-                        {
-                            "name":  "Alip",
-                            "rating":  5,
-                            "comment":  "Warna Rose Nude-nya cantik banget dan tahan lama.",
-                            "image":  "/review/Alip.jpg",
-                            "date":  "2025-03-25"
-                        }
-                    ]
-    },
-    {
-        "id":  64,
-        "slug":  "glossy-top-coat",
-        "category":  "nailcare",
-        "title":  "Glossy Top Coat",
-        "price":  "Rp 39.000",
-        "image":  "/nail_care/GlossyTopCoat.jpg",
-        "description":  "Glossy top coat that provides high shine and protects nail polish from peeling.",
-        "howToUse":  "Apply Glossy Top Coat to cleansed nails. Massage gently until absorbed. Use daily for optimal results.",
-        "ingredients":  [
-                            "Film-Forming Agents",
-                            "UV Absorbers",
-                            "Plasticizers"
-                        ],
-        "reviews":  [
-                        {
-                            "name":  "Veri",
-                            "rating":  5,
-                            "comment":  "Cat kukuku jadi super mengkilap dan tahan lama dengan top coat ini.",
-                            "image":  "/review/veri_nail.jpg",
-                            "date":  "2025-03-26"
-                        }
-                    ]
-    },
-    {
-        "id":  65,
-        "slug":  "quick-dry-nail-spray",
-        "category":  "nailcare",
-        "title":  "Quick Dry Nail Spray",
-        "price":  "Rp 35.000",
-        "image":  "/nail_care/QuickDryNailSpray.jpg",
-        "description":  "Nail polish drying spray that speeds up the drying process and reduces the risk of smudging.",
-        "howToUse":  "Apply Quick Dry Nail Spray to cleansed nails. Use daily for optimal results.",
-        "ingredients":  [
-                            "Isopropyl Alcohol",
-                            "Aqua",
-                            "Fragrance"
-                        ],
-        "reviews":  [
-                        {
-                            "name":  "Won yu",
-                            "rating":  4,
-                            "comment":  "Cat kukuku cepat kering dan gak gampang rusak setelah pakai spray ini.",
-                            "image":  "/review/wina_nail.jpg",
-                            "date":  "2025-03-27"
-                        }
-                    ]
-    },
-    {
-        "id":  66,
-        "slug":  "gentle-nail-polish-remover",
-        "category":  "nailcare",
-        "title":  "Gentle Nail Polish Remover",
-        "price":  "Rp 32.000",
-        "image":  "/nail_care/GentleNailPolishRemover.jpg",
-        "description":  "A gentle and effective nail polish remover that removes polish without damaging nails.",
-        "howToUse":  "Pour Gentle Nail Polish Remover onto a cotton pad, gently rub it onto your nails until the polish is completely removed.",
-        "ingredients":  [
-                            "Acetone",
-                            "Aloe Vera Extract",
-                            "Glycerin"
-                        ],
-        "reviews":  [
-                        {
-                            "name":  "Yanto",
-                            "rating":  5,
-                            "comment":  "Cat kukuku terangkat dengan mudah tanpa bikin kuku kering.",
-                            "image":  "/review/yanti_nail.jpg",
-                            "date":  "2025-03-28"
-                        }
-                    ]
-    },
-    {
-        "id":  67,
-        "slug":  "stainless-nail-clipper",
-        "category":  "nailcare",
-        "title":  "Stainless Nail Clipper",
-        "price":  "Rp 28.000",
-        "image":  "/nail_care/StainlessNailClipper.jpg",
-        "description":  "A sharp and rust-resistant stainless steel nail clipper for neat nail trimming.",
-        "howToUse":  "Use the Stainless Nail Clipper to trim nails neatly and sharply. Use daily for optimal results.",
-        "ingredients":  [
-                            "Stainless Steel"
-                        ],
-        "reviews":  [
-                        {
-                            "name":  "Zara",
-                            "rating":  5,
-                            "comment":  "Pemotong kukunya tajam dan awet banget.",
-                            "image":  "/review/zara_nail.jpg",
-                            "date":  "2025-03-29"
-                        }
-                    ]
-    },
-    {
-        "id":  68,
-        "slug":  "smooth-nail-file",
-        "category":  "nailcare",
-        "title":  "Smooth Nail File",
-        "price":  "Rp 25.000",
-        "image":  "/nail_care/SmoothNailFile.jpg",
-        "description":  "A fine nail file that shapes and smooths nails without damaging the nail surface.",
-        "howToUse":  "Gently file the nail surface with the Smooth Nail File until the desired shape is achieved.",
-        "ingredients":  [
-                            "Emery Board Surface"
-                        ],
-        "reviews":  [
-                        {
-                            "name":  "Ana",
-                            "rating":  4,
-                            "comment":  "Kikir kukunya halus dan bikin kuku rapi.",
-                            "image":  "/review/ana_nail.jpg",
-                            "date":  "2025-03-30"
-                        }
-                    ]
-    },
-    {
-        "id":  69,
-        "slug":  "soft-cuticle-pusher",
-        "category":  "nailcare",
-        "title":  "Soft Cuticle Pusher",
-        "price":  "Rp 30.000",
-        "image":  "/nail_care/SoftCuticlePusher.jpg",
-        "description":  "A gentle cuticle pusher to smooth cuticles without damaging nails.",
-        "howToUse":  "Use the Soft Cuticle Pusher to gently push back cuticles. Use daily for optimal results.",
-        "ingredients":  [
-                            "Plastic Handle",
-                            "Rubber Tip"
-                        ],
-        "reviews":  [
-                        {
-                            "name":  "Bebi",
-                            "rating":  5,
-                            "comment":  "Alatnya nyaman dipakai dan efektif merapikan kutikula.",
-                            "image":  "/review/bebi_nail.jpg",
-                            "date":  "2025-04-01"
-                        }
-                    ]
-    },
-    {
-        "id":  70,
-        "slug":  "glass-shine-top-coat",
-        "category":  "nailcare",
-        "title":  "Glass Shine Top Coat",
-        "price":  "Rp 39.000",
-        "image":  "/nail_care/GlassShineTopCoat.jpg",
-        "description":  "Top coat with a glass shine effect that gives a shiny appearance to nails.",
-        "howToUse":  "Apply Glass Shine Top Coat to cleansed nails. Massage gently until absorbed. Use daily for optimal results.",
-        "ingredients":  [
-                            "Film-Forming Agents",
-                            "UV Absorbers",
-                            "Plasticizers"
-                        ],
-        "reviews":  [
-                        {
-                            "name":  "Cici",
-                            "rating":  5,
-                            "comment":  "Kukuku jadi super mengkilap seperti kaca dengan top coat ini.",
-                            "image":  "/review/cici_nail.jpg",
-                            "date":  "2025-04-02"
-                        }
-                    ]
-    },
-    {
-        "id":  71,
-        "slug":  "keratin-nail-repair-cream",
-        "category":  "nailcare",
-        "title":  "Keratin Nail Repair Cream",
-        "price":  "Rp 62.000",
-        "image":  "/nail_care/KeratinNailRepairCream.jpg",
-        "description":  "Keratin-based nail repair cream that strengthens and repairs damaged nails.",
-        "howToUse":  "Apply Keratin Nail Repair Cream to cleansed nails. Massage gently until absorbed. Use daily for optimal results.",
-        "ingredients":  [
-                            "Hydrolyzed Keratin",
-                            "Vitamin E",
-                            "Panthenol",
-                            "Jojoba Oil"
-                        ],
-        "reviews":  [
-                        {
-                            "name":  "Dodi",
-                            "rating":  5,
-                            "comment":  "Kukuku yang rusak jadi lebih kuat dan sehat setelah pakai krim ini.",
-                            "image":  "/review/dodi_nail.jpg",
-                            "date":  "2025-04-03"
-                        }
-                    ]
-    },
-    {
-        "id":  72,
-        "slug":  "nail-hygiene-cleansing-spray",
-        "category":  "nailcare",
-        "title":  "Nail Hygiene Cleansing Spray",
-        "price":  "Rp 35.000",
-        "image":  "/nail_care/NailHygieneCleansingSpray.jpg",
-        "description":  "A nail cleansing spray that cleans and refreshes nails and cuticles.",
-        "howToUse":  "Spray Nail Hygiene Cleansing Spray directly onto nails and cuticles, then allow to absorb for a clean and fresh result.",
-        "ingredients":  [
-                            "Isopropyl Alcohol",
-                            "Aloe Vera Extract",
-                            "Glycerin"
-                        ],
-        "reviews":  [
-                        {
-                            "name":  "Eka",
-                            "rating":  4,
-                            "comment":  "Kukuku terasa bersih dan segar setelah pakai spray ini.",
-                            "image":  "/review/eka_nail.jpg",
-                            "date":  "2025-04-04"
-                        }
-                    ]
-    },
-    {
-        "id":  73,
-        "slug":  "soft-clean-toothbrush",
-        "category":  "oralcare",
-        "title":  "Soft Clean Toothbrush",
-        "price":  "Rp 25.000",
-        "image":  "/oral_care/SoftCleanToothbrush.jpg",
-        "description":  "A toothbrush with soft bristles that cleans teeth and gums effectively without injuring them.",
-        "howToUse":  "Use the Soft Clean Toothbrush to gently brush your teeth and gums every day to maintain oral hygiene.",
-        "ingredients":  [
-                            "Soft Nylon Bristles",
-                            "Ergonomic Handle"
-                        ],
-        "reviews":  [
-                        {
-                            "name":  "Fani",
-                            "rating":  5,
-                            "comment":  "Sikat giginya lembut dan nyaman dipakai.",
-                            "image":  "/review/fani_oral.jpg",
-                            "date":  "2025-04-05"
-                        }
-                    ]
-    },
-    {
-        "id":  74,
-        "slug":  "electric-toothbrush-mini",
-        "category":  "oralcare",
-        "title":  "Electric Toothbrush Mini",
-        "price":  "Rp 199.000",
-        "image":  "/oral_care/ElectricToothbrushMini.jpg",
-        "description":  "A mini electric toothbrush that effectively cleans plaque and maintains healthy teeth and gums.",
-        "howToUse":  "Use the Electric Toothbrush Mini to gently brush your teeth and gums every day to maintain oral hygiene.",
-        "ingredients":  [
-                            "Sonic Technology",
-                            "Rechargeable Battery",
-                            "Soft Bristles"
-                        ],
-        "reviews":  [
-                        {
-                            "name":  "Gilang",
-                            "rating":  5,
-                            "comment":  "Giginya jadi lebih bersih dan sehat setelah pakai sikat gigi elektrik ini.",
-                            "image":  "/review/gilang_oral.jpg",
-                            "date":  "2025-04-06"
-                        }
-                    ]
-    },
-    {
-        "id":  75,
-        "slug":  "daily-fresh-toothpaste",
-        "category":  "oralcare",
-        "title":  "Daily Fresh Toothpaste",
-        "price":  "Rp 29.000",
-        "image":  "/oral_care/DailyFreshToothpaste.jpg",
-        "description":  "Daily toothpaste that provides fresh breath and protects teeth from plaque and tartar.",
-        "howToUse":  "Use Daily Fresh Toothpaste to gently brush your teeth and gums every day to maintain oral hygiene.",
-        "ingredients":  [
-                            "Fluoride",
-                            "Xylitol",
-                            "Mint Extract"
-                        ],
-        "reviews":  [
-                        {
-                            "name":  "Hendra",
-                            "rating":  4,
-                            "comment":  "Mulutku terasa segar dan giginya terlindungi dengan baik.",
-                            "image":  "/review/hendra_oral.jpg",
-                            "date":  "2025-04-07"
-                        }
-                    ]
-    },
-    {
-        "id":  76,
-        "slug":  "sensitive-care-toothpaste",
-        "category":  "oralcare",
-        "title":  "Sensitive Care Toothpaste",
-        "price":  "Rp 35.000",
-        "image":  "/oral_care/SensitiveCareToothpaste.jpg",
-        "description":  "Toothpaste for sensitive teeth that reduces pain and strengthens tooth enamel.",
-        "howToUse":  "Use Sensitive Care Toothpaste to gently brush your teeth and gums every day to maintain oral hygiene.",
-        "ingredients":  [
-                            "Potassium Nitrate",
-                            "Fluoride",
-                            "Aloe Vera Extract"
-                        ],
-        "reviews":  [
-                        {
-                            "name":  "Intan",
-                            "rating":  5,
-                            "comment":  "Giginya gak ngilu lagi setelah pakai pasta gigi ini.",
-                            "image":  "/review/intan_oral.jpg",
-                            "date":  "2025-04-08"
-                        }
-                    ]
-    },
-    {
-        "id":  77,
-        "slug":  "whitening-pearl-toothpaste",
-        "category":  "oralcare",
-        "title":  "Whitening Pearl Toothpaste",
-        "price":  "Rp 39.000",
-        "image":  "/oral_care/WhiteningPearlToothpaste.jpg",
-        "description":  "Whitening toothpaste with pearl extract that helps remove stains and brighten teeth color..",
-        "howToUse":  "Use Whitening Pearl Toothpaste to gently brush your teeth and gums every day to maintain oral hygiene.",
-        "ingredients":  [
-                            "Pearl Extract",
-                            "Fluoride",
-                            "Silica"
-                        ],
-        "reviews":  [
-                        {
-                            "name":  "Joko",
-                            "rating":  5,
-                            "comment":  "Giginya jadi lebih putih dan bersih setelah pakai pasta gigi ini.",
-                            "image":  "/review/joko_oral.jpg",
-                            "date":  "2025-04-09"
-                        }
-                    ]
-    },
-    {
-        "id":  78,
-        "slug":  "herbal-mint-toothpaste",
-        "category":  "oralcare",
-        "title":  "Herbal Mint Toothpaste",
-        "price":  "Rp 32.000",
-        "image":  "/oral_care/HerbalMintToothpaste.jpg",
-        "description":  "Herbal toothpaste with mint extract that freshens breath and maintains oral health naturally.",
-        "howToUse":  "Use Herbal Mint Toothpaste to gently brush your teeth and gums every day to maintain oral hygiene.",
-        "ingredients":  [
-                            "Mint Extract",
-                            "Neem Extract",
-                            "Fluoride"
-                        ],
-        "reviews":  [
-                        {
-                            "name":  "Lia",
-                            "rating":  4,
-                            "comment":  "Nafasku jadi segar dan mulut terasa bersih setelah pakai pasta gigi ini.",
-                            "image":  "/review/lia_oral.jpg",
-                            "date":  "2025-04-10"
-                        }
-                    ]
-    },
-    {
-        "id":  79,
-        "slug":  "gentle-dental-floss",
-        "category":  "oralcare",
-        "title":  "Gentle Dental Floss",
-        "price":  "Rp 28.000",
-        "image":  "/oral_care/GentleDentalFloss.jpg",
-        "description":  "Soft dental floss that cleans between teeth effectively without injuring the gums.",
-        "howToUse":  "Use Gentle Dental Floss to gently clean between teeth every day to maintain oral hygiene.",
-        "ingredients":  [
-                            "Nylon Fibers",
-                            "Mint Flavor"
-                        ],
-        "reviews":  [
-                        {
-                            "name":  "Mira",
-                            "rating":  5,
-                            "comment":  "Benang giginya lembut dan efektif membersihkan sela gigi.",
-                            "image":  "/review/mira_oral.jpg",
-                            "date":  "2025-04-11"
-                        }
-                    ]
-    },
-    {
-        "id":  80,
-        "slug":  "dental-floss-pick",
-        "category":  "oralcare",
-        "title":  "Dental Floss Pick",
-        "price":  "Rp 30.000",
-        "image":  "/oral_care/DentalFlossPick.jpg",
-        "description":  "A practical dental floss tool that makes it easy to clean between teeth anytime.",
-        "howToUse":  "Use Dental Floss Pick to gently clean between teeth every day to maintain oral hygiene.",
-        "ingredients":  [
-                            "Nylon Fibers",
-                            "Plastic Handle",
-                            "Mint Flavor"
-                        ],
-        "reviews":  [
-                        {
-                            "name":  "Nando",
-                            "rating":  4,
-                            "comment":  "Alat benang giginya praktis dan mudah digunakan.",
-                            "image":  "/review/nando_oral.jpg",
-                            "date":  "2025-04-12"
-                        }
-                    ]
-    },
-    {
-        "id":  81,
-        "slug":  "fresh-breath-mouthwash",
-        "category":  "oralcare",
-        "title":  "Fresh Breath Mouthwash",
-        "price":  "Rp 45.000",
-        "image":  "/oral_care/FreshBreathMouthwash.jpg",
-        "description":  "A mouthwash that freshens breath and kills bacteria that cause bad breath.",
-        "howToUse":  "Use Fresh Breath Mouthwash to rinse your mouth every day after brushing your teeth to keep your breath fresh.",
-        "ingredients":  [
-                            "Cetylpyridinium Chloride",
-                            "Menthol",
-                            "Aloe Vera Extract"
-                        ],
-        "reviews":  [
-                        {
-                            "name":  "Owen",
-                            "rating":  5,
-                            "comment":  "Nafasku jadi segar sepanjang hari setelah pakai obat kumur ini.",
-                            "image":  "/review/owen_oral.jpg",
-                            "date":  "2025-04-13"
-                        }
-                    ]
-    },
-    {
-        "id":  82,
-        "slug":  "sensitive-care-mouthwash",
-        "category":  "oralcare",
-        "title":  "Sensitive Care Mouthwash",
-        "price":  "Rp 49.000",
-        "image":  "/oral_care/SensitiveaCareMouthwash.jpg",
-        "description":  "A mouthwash for sensitive teeth that soothes gums and reduces pain.",
-        "howToUse":  "Use Sensitive Care Mouthwash to rinse your mouth every day after brushing your teeth to maintain healthy teeth and gums.",
-        "ingredients":  [
-                            "Potassium Nitrate",
-                            "Aloe Vera Extract",
-                            "Glycerin"
-                        ],
-        "reviews":  [
-                        {
-                            "name":  "Putu",
-                            "rating":  5,
-                            "comment":  "Gusi aku jadi gak ngilu lagi setelah pakai obat kumur ini.",
-                            "image":  "/review/putu_oral.jpg",
-                            "date":  "2025-04-14"
-                        }
-                    ]
-    },
-    {
-        "id":  83,
-        "slug":  "tongue-cleaner",
-        "category":  "oralcare",
-        "title":  "Tongue Cleaner",
-        "price":  "Rp 22.000",
-        "image":  "/oral_care/TongueCleaner.jpg",
-        "description":  "An effective tongue cleaner removes bacteria and food debris from the surface of the tongue.",
-        "howToUse":  "Use Tongue Cleaner to gently clean the surface of your tongue every day to maintain oral hygiene.",
-        "ingredients":  [
-                            "Stainless Steel Blade",
-                            "Plastic Handle"
-                        ],
-        "reviews":  [
-                        {
-                            "name":  "Qori",
-                            "rating":  5,
-                            "comment":  "Lidahku jadi bersih dan nafas terasa lebih segar setelah pakai pembersih lidah ini.",
-                            "image":  "/review/qori_oral.jpg",
-                            "date":  "2025-04-15"
-                        }
-                    ]
-    },
-    {
-        "id":  84,
-        "slug":  "interdental-brush-set",
-        "category":  "oralcare",
-        "title":  "Interdental Brush Set",
-        "price":  "Rp 35.000",
-        "image":  "/oral_care/InterdentalBrushSet.jpg",
-        "description":  "Interdental brushes in one set that clean between teeth effectively.",
-        "howToUse":  "Use Interdental Brush Set to gently clean between teeth every day to maintain oral hygiene.",
-        "ingredients":  [
-                            "Nylon Bristles",
-                            "Plastic Handle"
-                        ],
-        "reviews":  [
-                        {
-                            "name":  "Refi",
-                            "rating":  4,
-                            "comment":  "Sikat interdentalnya efektif membersihkan sela gigi yang susah dijangkau.",
-                            "image":  "/review/Refi.jpg",
-                            "date":  "2025-04-15"
-                        }
-                    ]
-    },
-    {
-        "id":  85,
-        "slug":  "dry-mouth-relief-spray",
-        "category":  "oralcare",
-        "title":  "Dry Mouth Relief Spray",
-        "price":  "Rp 55.000",
-        "image":  "/oral_care/DryMouthReliefSpray.jpg",
-        "description":  "Dry mouth relief spray that moisturizes and freshens the mouth.",
-        "howToUse":  "Spray Dry Mouth Relief Spray directly onto your mouth and gums, then let it absorb for a soft, fresh finish.",
-        "ingredients":  [
-                            "Aloe Vera Extract",
-                            "Glycerin",
-                            "Xylitol"
-                        ],
-        "reviews":  [
-                        {
-                            "name":  "Rini",
-                            "rating":  5,
-                            "comment":  "Mulutku terasa lebih lembap dan segar setelah pakai spray ini.",
-                            "image":  "/review/rini_oral.jpg",
-                            "date":  "2025-04-16"
-                        }
-                    ]
-    },
-    {
-        "id":  86,
-        "slug":  "mouth-guard-night-care",
-        "category":  "oralcare",
-        "title":  "Mouth Guard Night Care",
-        "price":  "Rp 89.000",
-        "image":  "/oral_care/MouthGuardNightCare.jpg",
-        "description":  "A mouth guard for night care that protects teeth from damage caused by grinding.",
-        "howToUse":  "Place a Mouth Guard Night Care on your teeth before bed to protect them from damage caused by grinding.",
-        "ingredients":  [
-                            "Medical-Grade Silicone"
-                        ],
-        "reviews":  [
-                        {
-                            "name":  "Sandi",
-                            "rating":  5,
-                            "comment":  "Giginya terlindungi dengan baik saat tidur setelah pakai mouth guard ini.",
-                            "image":  "/review/sandi_oral.jpg",
-                            "date":  "2025-04-17"
-                        }
-                    ]
-    },
-    {
-        "id":  87,
-        "slug":  "plaque-reveal-chew-tablets",
-        "category":  "oralcare",
-        "title":  "Plaque Reveal Chew Tablets",
-        "price":  "Rp 42.000",
-        "image":  "/oral_care/PlaqueRevealChewTablets.jpg",
-        "description":  "Chewable tablets that help break down plaque on teeth for more effective cleaning.",
-        "howToUse":  "Use Plaque Reveal Chew Tablets daily after brushing to help reveal plaque on teeth.",
-        "ingredients":  [
-                            "Erythrosine",
-                            "Xylitol"
-                        ],
-        "reviews":  [
-                        {
-                            "name":  "Tina",
-                            "rating":  4,
-                            "comment":  "Tablet kunyahnya membantu aku melihat plak yang harus dibersihkan.",
-                            "image":  "/review/tina_oral.jpg",
-                            "date":  "2025-04-18"
-                        }
-                    ]
-    },
-    {
-        "id":  88,
-        "slug":  "kids-strawberry-toothpaste",
-        "category":  "oralcare",
-        "title":  "Kids Strawberry Toothpaste",
-        "price":  "Rp 27.000",
-        "image":  "/oral_care/KidsStrawberryToothpaste.jpg",
-        "description":  "Strawberry flavored toothpaste especially for children that cleans teeth gently and pleasantly.",
-        "howToUse":  "Use Kids Strawberry Toothpaste to gently brush childrens teeth every day to maintain oral hygiene.",
-        "ingredients":  [
-                            "Fluoride",
-                            "Xylitol",
-                            "Strawberry Flavor"
-                        ],
-        "reviews":  [
-                        {
-                            "name":  "Umar",
-                            "rating":  5,
-                            "comment":  "Anakku suka banget sama rasa stroberinya dan giginya jadi bersih.",
-                            "image":  "/review/umar_oral.jpg",
-                            "date":  "2025-04-19"
-                        }
-                    ]
-    }
+  {
+    "id": 1,
+    "slug": "lip-gloss-glam-shine",
+    "title": "Lip Gloss Glam Shine",
+    "price": "Rp 129.000",
+    "image": "/make_up/Lip_Gloss_Glam_Shine.png",
+    "category": "makeup",
+    "size": "6 ml / 0.2 fl oz",
+    "description": "Lip gloss with a glossy finish that moisturizes and gives a natural plumping effect to lips. Perfect for everyday wear and special occasions.",
+    "howToUse": "Apply a thin layer to your lips, starting in the center, and then spread evenly across your lips. Can be used alone or over your favorite lipstick.",
+    "ingredients": [
+      "Hydrogenated Polyisobutene",
+      "Beeswax",
+      "Vitamin E",
+      "Shea Butter",
+      "Jojoba Oil",
+      "Fragrance"
+    ],
+    "reviews": [
+      {
+        "name": "Aulia",
+        "rating": 5,
+        "comment": "Leggero e per niente appiccicoso!",
+        "image": "/review/aulia.jpg",
+        "date": "2025-01-01"
+      },
+      {
+        "name": "Nadya",
+        "rating": 5,
+        "comment": "The gloss is beautiful and long lasting",
+        "image": "/review/nadya.jpg",
+        "date": "2025-01-02"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "slug": "matte-lipstick-rose-nude",
+    "title": "Matte Lipstick Rose Nude",
+    "price": "Rp 149.000",
+    "image": "/make_up/MatteLipstickRoseNude.jpg",
+    "category": "makeup",
+    "size": "3.5 g / 0.12 oz",
+    "description": "Matte lipstick with natural nude color and comfortable to wear all day long.",
+    "howToUse": "Apply a thin layer to the lips starting from the center and then spread evenly over the entire surface. Use a lip liner for more precise results.",
+    "ingredients": [
+      "Isododecane",
+      "Beeswax",
+      "Vitamin E",
+      "Avocado Oil",
+      "Silica"
+    ],
+    "reviews": [
+      {
+        "name": "Rina",
+        "rating": 5,
+        "comment": "The color is beautiful and doesn\u0027t dry out your lips.",
+        "image": "/review/Rina.jpg",
+        "date": "2025-01-03"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "slug": "velvet-lip-cream",
+    "title": "Velvet Lip Cream",
+    "price": "Rp 119.000",
+    "image": "/make_up/VelvetLipCream.jpg",
+    "category": "makeup",
+    "size": "5 ml / 0.17 fl oz",
+    "description": "Lip cream with a light velvet texture and a soft matte finish.",
+    "howToUse": "Apply lip cream to your lips with the provided applicator. Start from the center of your lips and then spread evenly across the entire surface. For a more intense look, apply multiple layers.",
+    "ingredients": [
+      "Dimethicone",
+      "Vitamin E",
+      "Shea Butter",
+      "Mica",
+      "Fragrance"
+    ],
+    "reviews": [
+      {
+        "name": "Tasya",
+        "rating": 4,
+        "comment": "The texture is very soft on the lips",
+        "image": "/review/Tasya.jpg",
+        "date": "2025-01-04"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "slug": "tint-glow-serum",
+    "title": "Tint Glow Serum",
+    "price": "Rp 169.000",
+    "image": "/make_up/TintGlowSerum.jpg",
+    "category": "makeup",
+    "size": "10 ml / 0.34 fl oz",
+    "description": "Serum tint with a natural glowing effect and moisturizes the lips.",
+    "howToUse": "Apply a thin layer to the lips starting from the center and then spread evenly over the entire surface.",
+    "ingredients": [
+      "Hyaluronic Acid",
+      "Vitamin C",
+      "Glycerin",
+      "Rosehip Oil",
+      "Aloe Vera"
+    ],
+    "reviews": [
+      {
+        "name": "Dina",
+        "rating": 5,
+        "comment": "Lips look healthy and fresh",
+        "image": "/review/Dina.jpg",
+        "date": "2025-01-05"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "slug": "soft-blush-creamy",
+    "title": "Soft Blush Creamy",
+    "price": "Rp 89.000",
+    "image": "/make_up/SoftBlushCreamy.jpg",
+    "category": "makeup",
+    "size": "6 g / 0.21 oz",
+    "description": "Creamy blush with natural results and easy to blend.",
+    "howToUse": "Take a small amount with your fingers, tap on the cheeks, then blend evenly. Repeat for a more intense color.",
+    "ingredients": [
+      "Mica",
+      "Dimethicone",
+      "Vitamin E",
+      "Jojoba Oil",
+      "Iron Oxides"
+    ],
+    "reviews": [
+      {
+        "name": "Mega",
+        "rating": 5,
+        "comment": "Very natural color for daily use",
+        "image": "/review/mega.jpg",
+        "date": "2025-01-06"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "slug": "golden-glow-highlighter",
+    "title": "Golden Glow Highlighter",
+    "price": "Rp 159.000",
+    "image": "/make_up/GoldenGlowHighlighter.jpg",
+    "category": "makeup",
+    "size": "8 g / 0.28 oz",
+    "description": "Highlighter with a soft gold shimmer without harsh glitter.",
+    "howToUse": "Apply highlighter to the parts of your face you want to make glow, such as your cheekbones, nose, and forehead.",
+    "ingredients": ["Mica", "Silica", "Vitamin E", "Caprylic Triglyceride"],
+    "reviews": [
+      {
+        "name": "Intan",
+        "rating": 5,
+        "comment": "Il bagliore è davvero costoso",
+        "image": "/review/intan.jpg",
+        "date": "2025-01-07"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "slug": "precise-brow-definer",
+    "title": "Precise Brow Definer",
+    "price": "Rp 99.000",
+    "image": "/make_up/PreciseBrowDefiner.jpg",
+    "category": "makeup",
+    "size": "0.3 g",
+    "description": "A precision eyebrow pencil with natural and long-lasting results.",
+    "howToUse": "Use an eyebrow pencil to draw your eyebrows into your desired shape. For longer-lasting results, use an eyebrow cream as a base.",
+    "ingredients": ["Iron Oxides", "Beeswax", "Vitamin E", "Carnauba Wax"],
+    "reviews": [
+      {
+        "name": "Fira",
+        "rating": 4,
+        "comment": "The tip is good for making neat eyebrows",
+        "image": "/review/fira.jpg",
+        "date": "2025-01-08"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "slug": "eyeshadow-palette",
+    "title": "Eyeshadow Palette",
+    "price": "Rp 219.000",
+    "image": "/make_up/EyeshadowPalette.jpg",
+    "category": "makeup",
+    "size": "12 g",
+    "description": "An eyeshadow palette with a complete selection of colors for every look.",
+    "howToUse": "Apply eyeshadow to your eyelids using a brush or your finger. Blend thoroughly for a natural look, or add layers for a more intense color.",
+    "ingredients": [
+      "Mica",
+      "Talc",
+      "Iron Oxides",
+      "Vitamin E",
+      "Zinc Stearate"
+    ],
+    "reviews": [
+      {
+        "name": "Lala",
+        "rating": 5,
+        "comment": "Pigmented and minimal fallout",
+        "image": "/review/lala.jpg",
+        "date": "2025-01-09"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "slug": "hydra-dew-face-mist",
+    "title": "Hydra Dew Face Mist",
+    "price": "Rp 139.000",
+    "image": "/make_up/HydraDewFaceMist.jpg",
+    "category": "makeup",
+    "size": "50 ml",
+    "description": "Face mist to moisturize the face and give an instant fresh effect.",
+    "howToUse": "Spray the face mist all over your face from a distance of about 20 cm. Use it anytime to refresh your skin.",
+    "ingredients": [
+      "Aqua",
+      "Aloe Vera Extract",
+      "Rose Water",
+      "Glycerin",
+      "Hyaluronic Acid",
+      "Niacinamide",
+      "Panthenol",
+      "Allantoin",
+      "Phenoxyethanol"
+    ],
+    "reviews": [
+      {
+        "name": "Nisa",
+        "rating": 5,
+        "comment": "Very refreshing during the day",
+        "image": "/review/nisa.jpg",
+        "date": "2025-01-10"
+      },
+      {
+        "name": "Salsa",
+        "rating": 5,
+        "comment": "Makeup sticks better",
+        "image": "/review/salsa.jpg",
+        "date": "2025-01-11"
+      },
+      {
+        "name": "Putri",
+        "rating": 4,
+        "comment": "Face immediately moisturized",
+        "image": "/review/putri.jpg",
+        "date": "2025-01-12"
+      },
+      {
+        "name": "Ayu",
+        "rating": 5,
+        "comment": "The spray is fine",
+        "image": "/review/ayu.jpg",
+        "date": "2025-01-13"
+      },
+      {
+        "name": "Mila",
+        "rating": 4,
+        "comment": "Suitable for dry skin",
+        "image": "/review/mila.jpg",
+        "date": "2025-01-14"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "slug": "radiant-glow-primer",
+    "title": "Radiant Glow Primer",
+    "price": "Rp 159.000",
+    "image": "/make_up/Radiant_Glow_Primer.jpg",
+    "category": "makeup",
+    "size": "20 ml",
+    "description": "A primer with a glowing effect that makes skin look smooth.",
+    "howToUse": "Apply primer to your entire face before applying makeup. Use your fingers or a brush to blend until fully absorbed.",
+    "ingredients": [
+      "Cyclopentasiloxane",
+      "Dimethicone",
+      "Vitamin E",
+      "Niacinamide",
+      "Silica",
+      "Squalane",
+      "Tocopherol"
+    ],
+    "reviews": [
+      {
+        "name": "Lina",
+        "rating": 5,
+        "comment": "Glownya natural banget",
+        "image": "/review/lina.jpg",
+        "date": "2025-01-15"
+      },
+      {
+        "name": "Dewi",
+        "rating": 5,
+        "comment": "Foundation lebih tahan lama",
+        "image": "/review/dewi.jpg",
+        "date": "2025-01-16"
+      },
+      {
+        "name": "Rani",
+        "rating": 4,
+        "comment": "Bikin kulit halus",
+        "image": "/review/rani.jpg",
+        "date": "2025-01-17"
+      },
+      {
+        "name": "Mega",
+        "rating": 5,
+        "comment": "No patchy sama sekali",
+        "image": "/review/megan.jpg",
+        "date": "2025-01-18"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "slug": "liquid-blush-tint",
+    "title": "Liquid Blush Tint",
+    "price": "Rp 129.000",
+    "image": "/make_up/LiquidBlushTint.jpg",
+    "category": "makeup",
+    "size": "6 ml",
+    "description": "A lightweight liquid blush with a natural glow.",
+    "howToUse": "Apply a small amount of blush tint to the back of your hand or directly onto your cheeks. Use your fingers or a sponge to blend it into your skin.",
+    "ingredients": [
+      "Aqua",
+      "Glycerin",
+      "Vitamin C",
+      "Panthenol",
+      "Mica",
+      "Iron Oxides",
+      "Phenoxyethanol"
+    ],
+    "reviews": [
+      {
+        "name": "Citra",
+        "rating": 5,
+        "comment": "Warnanya super fresh",
+        "image": "/review/citra.jpg",
+        "date": "2025-01-19"
+      },
+      {
+        "name": "Bella",
+        "rating": 4,
+        "comment": "Gampang diblend",
+        "image": "/review/bella.jpg",
+        "date": "2025-01-20"
+      },
+      {
+        "name": "Risa",
+        "rating": 5,
+        "comment": "Awet seharian",
+        "image": "/review/risa.jpg",
+        "date": "2025-01-21"
+      },
+      {
+        "name": "Kiki",
+        "rating": 4,
+        "comment": "Ringan di kulit",
+        "image": "/review/kiki.jpg",
+        "date": "2025-01-22"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "slug": "soft-matte-foundation",
+    "title": "Soft Matte Foundation",
+    "price": "Rp 179.000",
+    "image": "/make_up/SoftMatteFoundation.jpg",
+    "category": "makeup",
+    "size": "30 ml",
+    "description": "A lightweight matte foundation with buildable coverage.",
+    "howToUse": "Take a small amount of foundation with a sponge or brush, apply it to your face starting from the center and blend it evenly across the face. Build up coverage as needed.",
+    "ingredients": [
+      "Aqua",
+      "Dimethicone",
+      "Titanium Dioxide",
+      "Zinc Oxide",
+      "Hyaluronic Acid",
+      "Niacinamide",
+      "Vitamin E",
+      "SPF 20"
+    ],
+    "reviews": [
+      {
+        "name": "Nabila",
+        "rating": 5,
+        "comment": "Matte tapi gak kering",
+        "image": "/review/nabila.jpg",
+        "date": "2025-01-23"
+      },
+      {
+        "name": "Yuni",
+        "rating": 4,
+        "comment": "Coverage oke",
+        "image": "/review/yuni.jpg",
+        "date": "2025-01-24"
+      },
+      {
+        "name": "Sari",
+        "rating": 5,
+        "comment": "Cocok buat oily skin",
+        "image": "/review/sari.jpg",
+        "date": "2025-01-25"
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "slug": "ultra-shine-lip-gloss",
+    "title": "Ultra Shine Lip Gloss",
+    "price": "Rp 129.000",
+    "image": "/make_up/_UltraShineLipGloss.png",
+    "category": "makeup",
+    "size": "6 ml",
+    "description": "Lip gloss with extra shine and plump effect.",
+    "howToUse": "Apply lip gloss to your lips using the applicator. Add layers for a more intense shine.",
+    "ingredients": [
+      "Hydrogenated Polyisobutene",
+      "Vitamin E",
+      "Shea Butter",
+      "Jojoba Oil",
+      "Fragrance"
+    ],
+    "reviews": [
+      {
+        "name": "Anya",
+        "rating": 5,
+        "comment": "Glossy-nya kelihatan mahal",
+        "image": "/review/anya.jpg",
+        "date": "2025-01-26"
+      },
+      {
+        "name": "Dita",
+        "rating": 5,
+        "comment": "Bibir lembap banget",
+        "image": "/review/dita.jpg",
+        "date": "2025-01-26"
+      },
+      {
+        "name": "Lusi",
+        "rating": 4,
+        "comment": "Ga lengket",
+        "image": "/review/lusi.jpg",
+        "date": "2025-01-27"
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "slug": "velvet-matte-lip-cream",
+    "title": "Velvet Matte Lip Cream",
+    "price": "Rp 139.000",
+    "image": "/make_up/VelvetMatteLipCream.jpg",
+    "category": "makeup",
+    "size": "5 ml",
+    "description": "Matte lip cream with a soft velvet finish.",
+    "howToUse": "Apply the lip cream to your lips using the provided applicator. Start in the center of your lips and spread evenly across the entire surface. For a more intense finish, apply several layers.",
+    "ingredients": [
+      "Dimethicone",
+      "Shea Butter",
+      "Vitamin E",
+      "Silica",
+      "Iron Oxides"
+    ],
+    "reviews": [
+      {
+        "name": "Eva",
+        "rating": 5,
+        "comment": "Warnanya cantik semua",
+        "image": "/review/eva.jpg",
+        "date": "2025-01-28"
+      },
+      {
+        "name": "Tina",
+        "rating": 4,
+        "comment": "Nyaman dipakai",
+        "image": "/review/tina.jpg",
+        "date": "2025-01-29"
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "slug": "hydra-lip-oil",
+    "title": "Hydra Lip Oil",
+    "price": "Rp 149.000",
+    "image": "/make_up/Hydra_Lip_Oil.jpg",
+    "category": "makeup",
+    "size": "6 ml",
+    "description": "Lip oil for daily lip care.",
+    "howToUse": "Apply lip oil to your lips using the applicator. Use anytime for moisturized, healthy lips.",
+    "ingredients": [
+      "Jojoba Oil",
+      "Sunflower Seed Oil",
+      "Vitamin E",
+      "Squalane",
+      "Fragrance"
+    ],
+    "reviews": [
+      {
+        "name": "Maya",
+        "rating": 5,
+        "comment": "Bibir jadi sehat",
+        "image": "/review/maya.jpg",
+        "date": "2025-01-30"
+      },
+      {
+        "name": "Hana",
+        "rating": 4,
+        "comment": "Ga berat",
+        "image": "/review/hana.jpg",
+        "date": "2025-02-01"
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "slug": "juicy-tint-balm",
+    "title": "Juicy Tint Balm",
+    "price": "Rp 99.000",
+    "image": "/make_up/Juicy_Tint_Balm.jpg",
+    "category": "makeup",
+    "size": "3 g",
+    "description": "Tint balm with natural juicy color.",
+    "howToUse": "Apply the tint balm to your lips using the applicator. Use anytime for a natural, hydrating color.",
+    "ingredients": [
+      "Beeswax",
+      "Vitamin E",
+      "Shea Butter",
+      "Sweet Almond Oil",
+      "Iron Oxides"
+    ],
+    "reviews": [
+      {
+        "name": "Rika",
+        "rating": 5,
+        "comment": "Natural buat daily",
+        "image": "/review/rika.jpg",
+        "date": "2025-02-02"
+      },
+      {
+        "name": "Sinta",
+        "rating": 4,
+        "comment": "Lembap banget",
+        "image": "/review/sinta.jpg",
+        "date": "2025-02-03"
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "slug": "soft-blush-cream",
+    "title": "Soft Blush Cream",
+    "price": "Rp 159.000",
+    "image": "/make_up/Soft_Blush_Cream.jpg",
+    "category": "makeup",
+    "size": "6 g",
+    "description": "Natural cream blush for all skin types.",
+    "howToUse": "Take a small amount with your finger, tap on your cheeks, then blend evenly. Repeat for a more intense color.",
+    "ingredients": [
+      "Shea Butter",
+      "Dimethicone",
+      "Vitamin E",
+      "Mica",
+      "Iron Oxides"
+    ],
+    "reviews": [
+      {
+        "name": "Novi",
+        "rating": 5,
+        "comment": "Blend-nya gampang",
+        "image": "/review/novi.jpg",
+        "date": "2025-02-04"
+      },
+      {
+        "name": "Winda",
+        "rating": 4,
+        "comment": "Warna soft",
+        "image": "/review/winda.jpg",
+        "date": "2025-02-05"
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "slug": "glow-highlighter-stick",
+    "title": "Glow Highlighter Stick",
+    "price": "Rp 169.000",
+    "image": "/make_up/Glow_Highlighter_Stick.jpg",
+    "category": "makeup",
+    "size": "5 g",
+    "description": "Highlighter stick with practical glowing results.",
+    "howToUse": "Apply highlighter to the parts of your face you want to make glow, such as your cheekbones, nose, and forehead.",
+    "ingredients": [
+      "Mica",
+      "Caprylic Triglyceride",
+      "Vitamin E",
+      "Shea Butter"
+    ],
+    "reviews": [
+      {
+        "name": "Icha",
+        "rating": 5,
+        "comment": "Glownya natural",
+        "image": "/review/icha.jpg",
+        "date": "2025-02-06"
+      },
+      {
+        "name": "Tari",
+        "rating": 4,
+        "comment": "Praktis dibawa",
+        "image": "/review/tari.jpg",
+        "date": "2025-02-07"
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "slug": "velvet-lip-pencil",
+    "title": "Velvet Lip Pencil",
+    "price": "Rp 89.000",
+    "image": "/make_up/Velvet_Lip_Pencil.jpg",
+    "category": "makeup",
+    "size": "1 g",
+    "description": "Velvet lip pencil for lip definition.",
+    "howToUse": "Line your lips precisely with the Velvet Lip Pencil, starting at the outer corner and following the natural shape of your lips. Fill in the inner corner or pair with your favorite lipstick for a fuller, longer-lasting look.",
+    "ingredients": ["Beeswax", "Iron Oxides", "Vitamin E", "Carnauba Wax"],
+    "reviews": [
+      {
+        "name": "Aini",
+        "rating": 4,
+        "comment": "Tajam tapi lembut",
+        "image": "/review/aini.jpg",
+        "date": "2025-02-08"
+      },
+      {
+        "name": "Rosa",
+        "rating": 5,
+        "comment": "Warnanya cakep",
+        "image": "/review/rosa.jpg",
+        "date": "2025-02-09"
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "slug": "honey-shine-lip-oil",
+    "title": "Honey Shine Lip Oil",
+    "price": "Rp 149.000",
+    "image": "/make_up/Honey_Shine_Lip_Oil.jpg",
+    "category": "makeup",
+    "size": "6 ml",
+    "description": "Lip oil with honey extract for moisturized lips.",
+    "howToUse": "Apply lip oil to your lips using the applicator. Use anytime for moisturized, healthy lips.",
+    "ingredients": [
+      "Honey Extract",
+      "Jojoba Oil",
+      "Sunflower Seed Oil",
+      "Vitamin E",
+      "Squalane"
+    ],
+    "reviews": [
+      {
+        "name": "Putri",
+        "rating": 5,
+        "comment": "Bibir jadi super lembap",
+        "image": "/review/fitri.jpg",
+        "date": "2025-02-10"
+      },
+      {
+        "name": "Elsa",
+        "rating": 4,
+        "comment": "Wangi madu lembut",
+        "image": "/review/elsa.jpg",
+        "date": "2025-02-11"
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "slug": "hydra-glow-serum",
+    "category": "skincare",
+    "title": "Hydra Glow Serum",
+    "price": "Rp 129.000",
+    "image": "/skin_care/HydraGlowSerum.jpg",
+    "description": "Serum with hydration booster for glowing, moist and supple skin all day long.",
+    "howToUse": "Apply serum to your cleansed face. Gently massage until absorbed. Use morning and night for optimal results.",
+    "ingredients": [
+      "Hyaluronic Acid",
+      "Niacinamide",
+      "Centella Asiatica",
+      "Ceramide Complex",
+      "Aloe Vera",
+      "Panthenol",
+      "Glycerin",
+      "Green Tea Extract",
+      "Licorice Extract"
+    ],
+    "reviews": [
+      {
+        "name": "Melati",
+        "rating": 5,
+        "comment": "Kulitku jadi glowing parah! Recommended!",
+        "image": "/review/melati.jpg",
+        "date": "2025-02-12"
+      },
+      {
+        "name": "Rara",
+        "rating": 5,
+        "comment": "Teksturnya ringan dan cepat meresap.",
+        "image": "/review/rara.jpg",
+        "date": "2025-02-13"
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "slug": "soft-facial-wash",
+    "category": "skincare",
+    "title": "Soft Facial Wash",
+    "price": "Rp 89.000",
+    "image": "/skin_care/SoftFacialWash.jpg",
+    "description": "Gentle facial wash for all skin types, cleanses without drying out the skin.",
+    "howToUse": "Wet your face, lather Soft Facial Wash in the palm of your hand, gently massage all over your face, then rinse thoroughly. Use morning and night for fresh and soft skin every day.",
+    "ingredients": [
+      "Amino Acid Cleanser",
+      "Aloe Vera Extract",
+      "Panthenol",
+      "Chamomile Extract",
+      "Glycerin"
+    ],
+    "reviews": [
+      {
+        "name": "Tiara",
+        "rating": 4,
+        "comment": "Lembut banget, cocok buat kulit sensitif.",
+        "image": "/review/tiara.jpg",
+        "date": "2025-02-14"
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "slug": "refresh-toner",
+    "category": "skincare",
+    "title": "Refresh Toner",
+    "price": "Rp 79.000",
+    "image": "/skin_care/RefreshToner.jpg",
+    "description": "A refreshing toner that helps hydrate the skin.",
+    "howToUse": "After cleansing your face, pour Refresh Toner onto a cotton pad and gently swipe over your face and neck. Use morning and night for fresh and hydrated skin.",
+    "ingredients": [
+      "Rosella Extract",
+      "Hyaluronic Acid",
+      "Vitamin B5",
+      "Centella Asiatica"
+    ],
+    "reviews": [
+      {
+        "name": "Wanda",
+        "rating": 5,
+        "comment": "Aromanya calming, kulit terasa segar.",
+        "image": "/review/wanda.jpg",
+        "date": "2025-02-15"
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "slug": "day-moisturizer-cream",
+    "category": "skincare",
+    "title": "Day Moisturizer Cream",
+    "price": "Rp 139.000",
+    "image": "/skin_care/DayMoisturizerCream.jpg",
+    "description": "Morning moisturizer that provides extra moisture and skin protection.",
+    "howToUse": "Apply moisturizer to your face and neck after using toner. Gently massage until absorbed. Use every morning before going out.",
+    "ingredients": [
+      "Ceramide",
+      "Peptide",
+      "Niacinamide",
+      "Hyaluronic Acid",
+      "Squalane"
+    ],
+    "reviews": [
+      {
+        "name": "Eka",
+        "rating": 5,
+        "comment": "Kulit langsung lembut dan plumpy!",
+        "image": "/review/eka.jpg",
+        "date": "2025-02-16"
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "slug": "sunscreen-spf-50",
+    "category": "skincare",
+    "title": "Sunscreen SPF 50+",
+    "price": "Rp 99.000",
+    "image": "/skin_care/SunscreenSPF50+.jpg",
+    "description": "Sunscreen SPF 50+ with a light formula and does not leave a white cast.",
+    "howToUse": "Apply sunscreen to your face and neck after using moisturizer. Gently massage until absorbed. Use every morning before going out.",
+    "ingredients": [
+      "UV Filter Complex",
+      "Niacinamide",
+      "Aloe Vera",
+      "Green Tea Extract"
+    ],
+    "reviews": [
+      {
+        "name": "Sarah",
+        "rating": 5,
+        "comment": "Terlalu bagus! Gak white cast sama sekali.",
+        "image": "/review/sarah.jpg",
+        "date": "2025-02-17"
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "slug": "night-repair-cream",
+    "category": "skincare",
+    "title": "Night Repair Cream",
+    "price": "Rp 149.000",
+    "image": "/skin_care/NightRepairCream.jpg",
+    "description": "A night cream that repairs and regenerates skin while you sleep.",
+    "howToUse": "Apply the night cream to your face and neck before bed. Gently massage until absorbed for best results.",
+    "ingredients": [
+      "Retinol",
+      "Peptide Complex",
+      "Ceramide",
+      "Hyaluronic Acid",
+      "Vitamin E"
+    ],
+    "reviews": [
+      {
+        "name": "Diana",
+        "rating": 4,
+        "comment": "Kulitku terasa lebih halus di pagi hari.",
+        "image": "/review/diana.jpg",
+        "date": "2025-02-18"
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "slug": "bright-eye-cream",
+    "category": "skincare",
+    "title": "Bright Eye Cream",
+    "price": "Rp 119.000",
+    "image": "/skin_care/BrightEyeCream.jpg",
+    "description": "An eye cream that brightens and reduces dark circles under the eyes.",
+    "howToUse": "Gently apply eye cream to the area around your eyes using your ring finger. Use morning and night for optimal results.",
+    "ingredients": [
+      "Vitamin C",
+      "Caffeine",
+      "Peptide",
+      "Hyaluronic Acid",
+      "Niacinamide"
+    ],
+    "reviews": [
+      {
+        "name": "Lia",
+        "rating": 5,
+        "comment": "Mata aku jadi lebih cerah dan segar!",
+        "image": "/review/lia.jpg",
+        "date": "2025-02-19"
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "slug": "moisture-boost-sheet-mask",
+    "category": "skincare",
+    "title": "Moisture Boost Sheet Mask",
+    "price": "Rp 25.000",
+    "image": "/skin_care/MoistureBoostSheetMask.jpg",
+    "description": "Sheet mask with hydrating essence for moisturized and fresh skin.",
+    "howToUse": "Apply the sheet mask to a cleansed face. Leave on for 15-20 minutes, then remove and gently pat remaining essence until absorbed.",
+    "ingredients": [
+      "Hyaluronic Acid",
+      "Aloe Vera",
+      "Glycerin",
+      "Vitamin E",
+      "Green Tea Extract"
+    ],
+    "reviews": [
+      {
+        "name": "Risna",
+        "rating": 4,
+        "comment": "Kulitku jadi super lembap setelah pakai ini.",
+        "image": "/review/risna.jpg",
+        "date": "2025-02-20"
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "slug": "anti-hair-loss-shampoo",
+    "category": "haircare",
+    "title": "Anti-Hair Loss Shampoo",
+    "price": "Rp 129.000",
+    "image": "/hair_care/Anti-HairLossShampoo.jpg",
+    "description": "Shampoo that helps reduce hair loss and strengthens hair roots.",
+    "howToUse": "Wet hair, pour Anti-Hair Loss Shampoo into your palms, gently massage throughout hair, then rinse thoroughly. Use 2-3 times a week for optimal results.",
+    "ingredients": [
+      "Biotin",
+      "Caffeine",
+      "Saw Palmetto Extract",
+      "Panthenol",
+      "Niacinamide"
+    ],
+    "reviews": [
+      {
+        "name": "Syahnaz",
+        "rating": 5,
+        "comment": "Rambutku jadi lebih kuat dan rontoknya berkurang!",
+        "image": "/review/syahnaz1.jpg",
+        "date": "2025-02-21"
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "slug": "anti-dandruff-shampoo",
+    "category": "haircare",
+    "title": "Anti-Dandruff Shampoo",
+    "price": "Rp 119.000",
+    "image": "/hair_care/Anti-DandruffShampoo.jpg",
+    "description": "Shampoo that effectively treats dandruff and maintains scalp health.",
+    "howToUse": "Wet hair, pour Anti-Dandruff Shampoo into your palms, gently massage throughout hair, then rinse thoroughly. Use 2-3 times a week for optimal results.",
+    "ingredients": [
+      "Zinc Pyrithione",
+      "Tea Tree Oil",
+      "Salicylic Acid",
+      "Panthenol",
+      "Aloe Vera Extract"
+    ],
+    "reviews": [
+      {
+        "name": "Lina",
+        "rating": 5,
+        "comment": "Ketombe hilang dan kulit kepalaku jadi sehat!",
+        "image": "/review/lina_hair.jpg",
+        "date": "2025-02-22"
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "slug": "gentle-hair-essence-shampoo",
+    "category": "haircare",
+    "title": "Gentle Hair Essence Shampoo (Non-SLS)",
+    "price": "Rp 139.000",
+    "image": "/hair_care/GentleHairEssenceShampoo.jpg",
+    "description": "A gentle, SLS-free shampoo that cleanses hair without stripping natural oils.",
+    "howToUse": "Wet hair, pour Gentle Hair Essence Shampoo into your palms, gently massage throughout hair, then rinse thoroughly. Use 2-3 times a week for optimal results.",
+    "ingredients": [
+      "Cocamidopropyl Betaine",
+      "Aloe Vera Extract",
+      "Panthenol",
+      "Hydrolyzed Keratin"
+    ],
+    "reviews": [
+      {
+        "name": "Mira",
+        "rating": 5,
+        "comment": "Rambutku jadi lembut dan gak kering setelah pakai ini.",
+        "image": "/review/mira_hair.jpg",
+        "date": "2025-02-23"
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "slug": "hair-revitalizer-mist",
+    "category": "haircare",
+    "title": "Hair Revitalizer Mist",
+    "price": "Rp 109.000",
+    "image": "/hair_care/HairRevitalizerMist.jpg",
+    "description": "A hair refreshing mist that provides extra nutrition and moisture.",
+    "howToUse": "Spray Hair Revitalizer Mist on clean hair and scalp. Use anytime to refresh and nourish hair.",
+    "ingredients": ["Argan Oil", "Vitamin E", "Panthenol", "Aloe Vera Extract"],
+    "reviews": [
+      {
+        "name": "Nina",
+        "rating": 4,
+        "comment": "Rambutku terasa lebih segar dan wangi sepanjang hari.",
+        "image": "/review/nina_hair.jpg",
+        "date": "2025-02-24"
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "slug": "intensive-hair-mask",
+    "category": "haircare",
+    "title": "Intensive Hair Mask",
+    "price": "Rp 149.000",
+    "image": "/hair_care/IntensiveHairMask.jpg",
+    "description": "An intensive hair mask that repairs damage and provides deep moisture.",
+    "howToUse": "Apply Intensive Hair Mask to clean hair. Leave on for 5-10 minutes, then rinse thoroughly. Use 1-2 times a week for optimal results.",
+    "ingredients": [
+      "Keratin",
+      "Argan Oil",
+      "Shea Butter",
+      "Panthenol",
+      "Vitamin E"
+    ],
+    "reviews": [
+      {
+        "name": "Vino",
+        "rating": 5,
+        "comment": "Rambutku jadi halus dan mudah diatur setelah pakai ini.",
+        "image": "/review/vino_hair.jpg",
+        "date": "2025-02-25"
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "slug": "candlenut-oil",
+    "category": "haircare",
+    "title": "Candlenut Oil",
+    "price": "Rp 89.000",
+    "image": "/hair_care/CandlenutOil.jpg",
+    "description": "Pure candlenut oil to care for and strengthen hair from root to tip.",
+    "howToUse": "Apply candlenut oil to clean hair and scalp. Leave on for 30 minutes until absorbed, then rinse thoroughly. Use 2-3 times a week for optimal results.",
+    "ingredients": ["Candlenut Oil"],
+    "reviews": [
+      {
+        "name": "Lewi",
+        "rating": 5,
+        "comment": "Rambutku jadi lebih tebal dan kuat setelah rutin pakai minyak kemiri ini.",
+        "image": "/review/lewi_hair.jpg",
+        "date": "2025-02-26"
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "slug": "smooth-shine-shampoo",
+    "category": "haircare",
+    "title": "Smooth \u0026 Shine Shampoo",
+    "price": "Rp 99.000",
+    "image": "/hair_care/SmoothShineShampoo.jpg",
+    "description": "Shampoo that gives natural shine and softness to tangled hair.",
+    "howToUse": "Wet hair, pour Smooth \u0026 Shine Shampoo into your palms, gently massage throughout hair, then rinse thoroughly. Use 2-3 times a week for optimal results.",
+    "ingredients": [
+      "Argan Oil",
+      "Silicone Complex",
+      "Panthenol",
+      "Aloe Vera Extract"
+    ],
+    "reviews": [
+      {
+        "name": "Fadil",
+        "rating": 4,
+        "comment": "Rambutku jadi lebih berkilau dan mudah diatur.",
+        "image": "/review/Fadil.jpg",
+        "date": "2025-02-27"
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "slug": "nourishing-conditioner",
+    "category": "haircare",
+    "title": "Nourishing Conditioner",
+    "price": "Rp 109.000",
+    "image": "/hair_care/NourishingConditioner.jpg",
+    "description": "Conditioner that provides nutrition and moisture for healthy and shiny hair.",
+    "howToUse": "Apply Nourishing Conditioner to clean hair. Leave on for 2-3 minutes, then rinse thoroughly. Use every time you wash your hair for optimal results.",
+    "ingredients": [
+      "Shea Butter",
+      "Argan Oil",
+      "Panthenol",
+      "Hydrolyzed Keratin"
+    ],
+    "reviews": [
+      {
+        "name": "Arin",
+        "rating": 5,
+        "comment": "Rambutku terasa lembut dan mudah diatur setelah pakai ini.",
+        "image": "/review/Arina_hair.jpg",
+        "date": "2025-02-28"
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "slug": "hair-vitamin-serum",
+    "category": "haircare",
+    "title": "Hair Vitamin Serum",
+    "price": "Rp 129.000",
+    "image": "/hair_care/HairVitaminSerum.jpg",
+    "description": "Hair vitamin serum that nourishes and protects hair from damage.",
+    "howToUse": "Apply Hair Vitamin Serum to clean hair and scalp. Gently massage until absorbed. Use daily for optimal results.",
+    "ingredients": ["Vitamin E", "Argan Oil", "Panthenol", "Silicone Complex"],
+    "reviews": [
+      {
+        "name": "Sazuke",
+        "rating": 5,
+        "comment": "Rambutku jadi lebih sehat dan berkilau setelah pakai serum ini.",
+        "image": "/review/Sazuke.jpg",
+        "date": "2025-02-29"
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "slug": "moisture-repair-hair-mask",
+    "category": "haircare",
+    "title": "Moisture Repair Hair Mask",
+    "price": "Rp 149.000",
+    "image": "/hair_care/MoistureRepairHairMask.jpg",
+    "description": "A hair mask that repairs damage and provides deep moisture.",
+    "howToUse": "Apply the Moisture Repair Hair Mask to cleansed hair. Leave it on for 5-10 minutes, then rinse thoroughly. Use once or twice a week for optimal results.",
+    "ingredients": [
+      "Keratin",
+      "Shea Butter",
+      "Argan Oil",
+      "Panthenol",
+      "Vitamin E"
+    ],
+    "reviews": [
+      {
+        "name": "Lila",
+        "rating": 5,
+        "comment": "Rambutku jadi halus dan mudah diatur setelah pakai masker ini.",
+        "image": "/review/lila_hair.jpg",
+        "date": "2025-02-30"
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "slug": "anti-frizz-spray",
+    "category": "haircare",
+    "title": "Anti-Frizz Spray",
+    "price": "Rp 89.000",
+    "image": "/hair_care/Anti-FrizzSpray.jpg",
+    "description": "Anti-frizz spray that smoothes hair and protects against humidity.",
+    "howToUse": "Spray Anti-Frizz Spray onto towel-dried hair. Smooth it out with your hands or a comb. Use before or after styling to reduce frizz and maintain moisture.",
+    "ingredients": ["Silicone Complex", "Argan Oil", "Panthenol"],
+    "reviews": [
+      {
+        "name": "Titan",
+        "rating": 4,
+        "comment": "Rambutku jadi lebih halus dan gak kusut.",
+        "image": "/review/titan_hair.jpg",
+        "date": "2025-03-01"
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "slug": "scalp-refresh-tonic",
+    "category": "haircare",
+    "title": "Scalp Refresh Tonic",
+    "price": "Rp 119.000",
+    "image": "/hair_care/ScalpRefreshTonic.jpg",
+    "description": "A soothing scalp tonic that soothes and reduces itching.",
+    "howToUse": "Apply Scalp Refresh Tonic to a cleansed scalp. Gently massage until absorbed. Use daily for optimal results.",
+    "ingredients": [
+      "Tea Tree Oil",
+      "Peppermint Extract",
+      "Aloe Vera Extract",
+      "Panthenol"
+    ],
+    "reviews": [
+      {
+        "name": "Yuli",
+        "rating": 5,
+        "comment": "Kulit kepalaku jadi segar dan gatalnya berkurang.",
+        "image": "/review/yuli_hair.jpg",
+        "date": "2025-03-02"
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "slug": "hair-strengthening-oil",
+    "category": "haircare",
+    "title": "Hair Strengthening Oil",
+    "price": "Rp 139.000",
+    "image": "/hair_care/HairStrengtheningOil.jpg",
+    "description": "Hair strengthening oil that prevents damage and breakage.",
+    "howToUse": "Apply Hair Strengthening Oil to clean hair and scalp. Massage gently until absorbed. Use daily for optimal results.",
+    "ingredients": ["Castor Oil", "Argan Oil", "Vitamin E", "Panthenol"],
+    "reviews": [
+      {
+        "name": "Vio",
+        "rating": 5,
+        "comment": "Rambutku jadi lebih kuat dan gak gampang patah.",
+        "image": "/review/Vio.jpg",
+        "date": "2025-03-03"
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "slug": "heat-protection-mist",
+    "category": "haircare",
+    "title": "Heat Protection Mist",
+    "price": "Rp 99.000",
+    "image": "/hair_care/HeatProtectionMist.jpg",
+    "description": "A heat protection mist that protects hair from damage caused by styling tools.",
+    "howToUse": "Spray Heat Protection Mist onto towel-dried hair. Use before styling with heated tools to protect hair from damage.",
+    "ingredients": ["Silicone Complex", "Panthenol", "Argan Oil"],
+    "reviews": [
+      {
+        "name": "Naia",
+        "rating": 4,
+        "comment": "Rambutku terlindungi saat styling dengan alat panas.",
+        "image": "/review/Naia.jpg",
+        "date": "2025-03-04"
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "slug": "hair-tonic",
+    "category": "haircare",
+    "title": "Hair Tonic",
+    "price": "Rp 99.000",
+    "image": "/hair_care/HairTonic.jpg",
+    "description": "A hair refreshing tonic that provides extra nutrition and moisture.",
+    "howToUse": "Apply Hair Tonic to clean hair and scalp. Massage gently until absorbed. Use daily for optimal results.",
+    "ingredients": [
+      "Ginseng Extract",
+      "Vitamin E",
+      "Panthenol",
+      "Aloe Vera Extract"
+    ],
+    "reviews": [
+      {
+        "name": "Rendi",
+        "rating": 5,
+        "comment": "Rambutku terasa lebih segar dan wangi sepanjang hari.",
+        "image": "/review/rendi_hair.jpg",
+        "date": "2025-03-05"
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "slug": "silky-smooth-leave-in-conditioner",
+    "category": "haircare",
+    "title": "Silky Smooth Leave-In Conditioner",
+    "price": "Rp 129.000",
+    "image": "/hair_care/SilkySmoothLeave-InConditioner.jpg",
+    "description": "Leave-in conditioner that provides softness and shine to frizzy hair.",
+    "howToUse": "Apply Silky Smooth Leave-In Conditioner to clean, towel-dried hair. Smooth it out with your hands or a comb. Use every time after washing for optimal results.",
+    "ingredients": [
+      "Shea Butter",
+      "Argan Oil",
+      "Panthenol",
+      "Hydrolyzed Keratin"
+    ],
+    "reviews": [
+      {
+        "name": "Susi",
+        "rating": 5,
+        "comment": "Rambutku jadi lembut dan berkilau sepanjang hari.",
+        "image": "/review/susi_hair.jpg",
+        "date": "2025-03-06"
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "slug": "lightweight-body-lotion",
+    "category": "bodycare",
+    "title": "Lightweight Body Lotion",
+    "price": "Rp 89.000",
+    "image": "/body_care/LightweightBodyLotion.jpg",
+    "description": "A lightweight body lotion that absorbs quickly and provides moisture all day long.",
+    "howToUse": "Apply Lightweight Body Lotion to cleansed skin. Massage gently until absorbed. Use daily for optimal results.",
+    "ingredients": [
+      "Glycerin",
+      "Aloe Vera Extract",
+      "Shea Butter",
+      "Vitamin E",
+      "Jojoba Oil"
+    ],
+    "reviews": [
+      {
+        "name": "Al",
+        "rating": 5,
+        "comment": "Lotion ini cepat meresap dan gak lengket di kulit.",
+        "image": "/review/al_body.jpg",
+        "date": "2025-03-07"
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "slug": "ultra-moist-body-cream",
+    "category": "bodycare",
+    "title": "Ultra Moist Body Cream",
+    "price": "Rp 109.000",
+    "image": "/body_care/UltraMoistBodyCream.jpg",
+    "description": "Body cream with ultra-moisturizing formula for very dry skin.",
+    "howToUse": "Apply Ultra Moist Body Cream to cleansed skin. Gently massage until absorbed. Use daily for optimal results.",
+    "ingredients": [
+      "Shea Butter",
+      "Cocoa Butter",
+      "Glycerin",
+      "Vitamin E",
+      "Jojoba Oil"
+    ],
+    "reviews": [
+      {
+        "name": "Bella",
+        "rating": 5,
+        "comment": "Kulitku yang sangat kering jadi lembap dan halus setelah pakai ini.",
+        "image": "/review/bella_body.jpg",
+        "date": "2025-03-08"
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "slug": "intense-repair-body-butter",
+    "category": "bodycare",
+    "title": "Intense Repair Body Butter",
+    "price": "Rp 129.000",
+    "image": "/body_care/IntenseRepairBodyButter.jpg",
+    "description": "Nutrient-rich body butter to repair and moisturize very dry skin.",
+    "howToUse": "Apply Intense Repair Body Butter to cleansed skin. Gently massage until absorbed. Use daily for optimal results.",
+    "ingredients": [
+      "Shea Butter",
+      "Cocoa Butter",
+      "Vitamin E",
+      "Jojoba Oil",
+      "Almond Oil"
+    ],
+    "reviews": [
+      {
+        "name": "Fitrah",
+        "rating": 5,
+        "comment": "Body butter ini sangat efektif untuk kulitku yang super kering.",
+        "image": "/review/Fitrah.jpg",
+        "date": "2025-03-09"
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "slug": "nourishing-body-oil",
+    "category": "bodycare",
+    "title": "Nourishing Body Oil",
+    "price": "Rp 119.000",
+    "image": "/body_care/NourishingBodyOil.jpg",
+    "description": "A body oil that nourishes and moisturizes dry skin.",
+    "howToUse": "Apply Nourishing Body Oil to cleansed skin. Gently massage until absorbed. Use daily for optimal results.",
+    "ingredients": ["Jojoba Oil", "Almond Oil", "Vitamin E", "Argan Oil"],
+    "reviews": [
+      {
+        "name": "Dinar",
+        "rating": 4,
+        "comment": "Kulitku terasa lebih lembap dan kenyal setelah pakai minyak ini.",
+        "image": "/review/dinar_body.jpg",
+        "date": "2025-03-10"
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "slug": "brightening-body-serum",
+    "category": "bodycare",
+    "title": "Brightening Body Serum",
+    "price": "Rp 135.000",
+    "image": "/body_care/BrighteningBodySerum.jpg",
+    "description": "A body serum that brightens and evens out skin tone.",
+    "howToUse": "Apply Brightening Body Serum to cleansed skin. Gently massage until absorbed. Use daily for optimal results.",
+    "ingredients": [
+      "Vitamin C",
+      "Niacinamide",
+      "Aloe Vera Extract",
+      "Glycerin"
+    ],
+    "reviews": [
+      {
+        "name": "Fiore",
+        "rating": 5,
+        "comment": "Kulitku jadi lebih cerah dan merata setelah rutin pakai serum ini.",
+        "image": "/review/Fiore.jpg",
+        "date": "2025-03-11"
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "slug": "soft-hand-cream",
+    "category": "bodycare",
+    "title": "Soft Hand Cream",
+    "price": "Rp 49.000",
+    "image": "/body_care/SoftHandCream.jpg",
+    "description": "A gentle hand cream that moisturizes and protects dry hand skin.",
+    "howToUse": "Apply Soft Hand Cream to cleansed skin. Gently massage until absorbed. Use daily for optimal results.",
+    "ingredients": [
+      "Shea Butter",
+      "Glycerin",
+      "Vitamin E",
+      "Aloe Vera Extract"
+    ],
+    "reviews": [
+      {
+        "name": "Gina",
+        "rating": 5,
+        "comment": "Tangan aku jadi lembut dan gak kering lagi.",
+        "image": "/review/gina_body.jpg",
+        "date": "2025-03-12"
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "slug": "refreshing-body-wash",
+    "category": "bodycare",
+    "title": "Refreshing Body Wash",
+    "price": "Rp 79.000",
+    "image": "/body_care/RefreshingBodyWash.jpg",
+    "description": "A refreshing body wash that cleanses the skin without drying it out.",
+    "howToUse": "Apply Refreshing Body Wash to cleansed skin. Rinse thoroughly. Use daily for optimal results.",
+    "ingredients": [
+      "Aloe Vera Extract",
+      "Glycerin",
+      "Chamomile Extract",
+      "Vitamin E"
+    ],
+    "reviews": [
+      {
+        "name": "Hani",
+        "rating": 4,
+        "comment": "Bikin kulit terasa segar dan bersih setelah mandi.",
+        "image": "/review/hani_body.jpg",
+        "date": "2025-03-13"
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "slug": "gentle-exfoliating-body-scrub",
+    "category": "bodycare",
+    "title": "Gentle Exfoliating Body Scrub",
+    "price": "Rp 99.000",
+    "image": "/body_care/GentleExfoliatingBodyScrub.jpg",
+    "description": "A gentle body scrub that removes dead skin cells and makes skin smooth.",
+    "howToUse": "Apply Gentle Exfoliating Body Scrub to wet skin. Massage gently in circular motions, then rinse thoroughly. Use 2-3 times a week for optimal results.",
+    "ingredients": [
+      "Sugar Granules",
+      "Jojoba Beads",
+      "Shea Butter",
+      "Vitamin E",
+      "Aloe Vera Extract"
+    ],
+    "reviews": [
+      {
+        "name": "Indah",
+        "rating": 5,
+        "comment": "Kulitku jadi halus dan cerah setelah pakai scrub ini.",
+        "image": "/review/indah_body.jpg",
+        "date": "2025-03-14"
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "slug": "floral-breeze-body-mist",
+    "category": "bodycare",
+    "title": "Floral Breeze Body Mist",
+    "price": "Rp 75.000",
+    "image": "/body_care/FloralBreezeBodyMist.jpg",
+    "description": "Body mist with a refreshing floral scent that lasts all day long.",
+    "howToUse": "Spray Floral Breeze Body Mist on cleansed skin. Use daily for optimal results.",
+    "ingredients": ["Aqua", "Fragrance", "Glycerin", "Aloe Vera Extract"],
+    "reviews": [
+      {
+        "name": "Jesse",
+        "rating": 5,
+        "comment": "Wanginya enak dan tahan lama.",
+        "image": "/review/jesse_body.jpg",
+        "date": "2025-03-15"
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "slug": "sweet-vanilla-body-mist",
+    "category": "bodycare",
+    "title": "Sweet Vanilla Body Mist",
+    "price": "Rp 75.000",
+    "image": "/body_care/SweetVanillaBodyMist.jpg",
+    "description": "Body mist with an alluring sweet vanilla scent.",
+    "howToUse": "Spray Sweet Vanilla Body Mist on cleansed skin. Use daily for optimal results.",
+    "ingredients": ["Aqua", "Fragrance", "Glycerin", "Aloe Vera Extract"],
+    "reviews": [
+      {
+        "name": "Kiki",
+        "rating": 4,
+        "comment": "Wanginya manis dan enak banget.",
+        "image": "/review/kiki_body.jpg",
+        "date": "2025-03-16"
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "slug": "uv-shield-body-sunscreen-spf-50",
+    "category": "bodycare",
+    "title": "UV Shield Body Sunscreen SPF 50",
+    "price": "Rp 129.000",
+    "image": "/body_care/UVShieldBodySunscreenSPF50.jpg",
+    "description": "Body sunscreen with SPF 50 that protects skin from harmful UV rays.",
+    "howToUse": "Apply UV Shield Body Sunscreen SPF 50 evenly on sun-exposed skin. Apply 15 minutes before outdoor activities and reapply every 2 hours or after swimming or sweating.",
+    "ingredients": [
+      "UV Filter Complex",
+      "Niacinamide",
+      "Aloe Vera Extract",
+      "Vitamin E"
+    ],
+    "reviews": [
+      {
+        "name": "Lunam",
+        "rating": 5,
+        "comment": "Sunscreen ini gak lengket dan melindungi kulitku dengan baik.",
+        "image": "/review/lunam_body.jpg",
+        "date": "2025-03-17"
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "slug": "cooling-foot-cream",
+    "category": "bodycare",
+    "title": "Cooling Foot Cream",
+    "price": "Rp 55.000",
+    "image": "/body_care/CoolingFootCream.jpg",
+    "description": "Foot cream with a cooling effect that refreshes and moisturizes the skin of the feet.",
+    "howToUse": "Apply Cooling Foot Cream to cleansed skin of the feet. Massage gently until absorbed. Use daily for optimal results.",
+    "ingredients": ["Menthol", "Glycerin", "Shea Butter", "Aloe Vera Extract"],
+    "reviews": [
+      {
+        "name": "Molly",
+        "rating": 5,
+        "comment": "Kaki aku jadi segar dan gak pegal lagi setelah pakai krim ini.",
+        "image": "/review/molly_body.jpg",
+        "date": "2025-03-18"
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "slug": "nourishing-cuticle-oil",
+    "category": "nailcare",
+    "title": "Nourishing Cuticle Oil",
+    "price": "Rp 45.000",
+    "image": "/nail_care/NourishingCuticleOil.jpg",
+    "description": "Cuticle oil that nourishes and moisturizes cuticles and nails.",
+    "howToUse": "Apply Nourishing Cuticle Oil to cleansed cuticles and nails. Massage gently until absorbed. Use daily for optimal results.",
+    "ingredients": ["Jojoba Oil", "Vitamin E", "Almond Oil", "Argan Oil"],
+    "reviews": [
+      {
+        "name": "Nia",
+        "rating": 5,
+        "comment": "Kutikula aku jadi lembut dan kuku terlihat lebih sehat.",
+        "image": "/review/nia_nail.jpg",
+        "date": "2025-03-19"
+      }
+    ]
+  },
+  {
+    "id": 58,
+    "slug": "soft-cuticle-repair-cream",
+    "category": "nailcare",
+    "title": "Soft Cuticle Repair Cream",
+    "price": "Rp 49.000",
+    "image": "/nail_care/SoftCuticleRepairCream.jpg",
+    "description": "Cuticle repair cream that moisturizes and repairs dry and damaged cuticles.",
+    "howToUse": "Apply Soft Cuticle Repair Cream to cleansed cuticles and nails. Massage gently until absorbed. Use daily for optimal results.",
+    "ingredients": [
+      "Shea Butter",
+      "Vitamin E",
+      "Jojoba Oil",
+      "Aloe Vera Extract"
+    ],
+    "reviews": [
+      {
+        "name": "Oni",
+        "rating": 4,
+        "comment": "Kutikula aku jadi lebih sehat dan gak kering lagi.",
+        "image": "/review/oni_nail.jpg",
+        "date": "2025-03-20"
+      }
+    ]
+  },
+  {
+    "id": 59,
+    "slug": "gentle-cuticle-remover",
+    "category": "nailcare",
+    "title": "Gentle Cuticle Remover",
+    "price": "Rp 39.000",
+    "image": "/nail_care/GentleCuticleRemover.jpg",
+    "description": "A gentle and effective cuticle remover that lifts cuticles without damaging nails.",
+    "howToUse": "Apply Gentle Cuticle Remover to cleansed cuticles. Leave for 1-2 minutes, then gently lift cuticles with a tool or your fingers. Rinse thoroughly. Use daily for optimal results.",
+    "ingredients": ["Lactic Acid", "Aloe Vera Extract", "Glycerin"],
+    "reviews": [
+      {
+        "name": "Pian",
+        "rating": 5,
+        "comment": "Kutikula aku jadi rapi dan mudah diatur setelah pakai ini.",
+        "image": "/review/pian_nail.jpg",
+        "date": "2025-03-21"
+      }
+    ]
+  },
+  {
+    "id": 60,
+    "slug": "protein-nail-strengthener",
+    "category": "nailcare",
+    "title": "Protein Nail Strengthener",
+    "price": "Rp 55.000",
+    "image": "/nail_care/ProteinNailStrengthener.jpg",
+    "description": "Protein-based nail strengthener that strengthens and protects brittle and brittle nails.",
+    "howToUse": "Apply Protein Nail Strengthener to cleansed nails. Massage gently until absorbed. Use daily for optimal results.",
+    "ingredients": ["Hydrolyzed Keratin", "Calcium", "Vitamin E", "Panthenol"],
+    "reviews": [
+      {
+        "name": "Rara",
+        "rating": 5,
+        "comment": "Kukuku jadi lebih kuat dan gak gampang patah setelah pakai ini.",
+        "image": "/review/rara_nail.jpg",
+        "date": "2025-03-22"
+      }
+    ]
+  },
+  {
+    "id": 61,
+    "slug": "natural-shine-nail-buffer",
+    "category": "nailcare",
+    "title": "Natural Shine Nail Buffer",
+    "price": "Rp 29.000",
+    "image": "/nail_care/NaturalShineNailBuffer.jpg",
+    "description": "Nail buffer that gives natural shine to nails without the need for nail polish.",
+    "howToUse": "Gently rub the surface of the nails with the Natural Shine Nail Buffer until smooth and naturally shiny.",
+    "ingredients": ["Fine Grit Surface"],
+    "reviews": [
+      {
+        "name": "Asa",
+        "rating": 4,
+        "comment": "Kukuku jadi berkilau alami setelah di-buffer dengan ini.",
+        "image": "/review/asa_nail.jpg",
+        "date": "2025-03-23"
+      }
+    ]
+  },
+  {
+    "id": 62,
+    "slug": "protective-base-coat",
+    "category": "nailcare",
+    "title": "Protective Base Coat",
+    "price": "Rp 39.000",
+    "image": "/nail_care/ProtectiveBaseCoat.jpg",
+    "description": "A protective base coat that protects nails from stains and extends the durability of nail polish.",
+    "howToUse": "Apply Protective Base Coat to cleansed nails. Massage gently until absorbed. Use daily for optimal results.",
+    "ingredients": ["Film-Forming Agents", "Vitamin E", "Panthenol"],
+    "reviews": [
+      {
+        "name": "Tantis",
+        "rating": 5,
+        "comment": "Kukuku terlindungi dengan baik dan cat kuku tahan lama.",
+        "image": "/review/tantis_nail.jpg",
+        "date": "2025-03-24"
+      }
+    ]
+  },
+  {
+    "id": 63,
+    "slug": "color-nail-polish-rose-nude",
+    "category": "nailcare",
+    "title": "Color Nail Polish – Rose Nude",
+    "price": "Rp 45.000",
+    "image": "/nail_care/ColorNailPolish–RoseNude.jpg",
+    "description": "Rose Nude nail polish that gives a natural and elegant look.",
+    "howToUse": "Apply Color Nail Polish – Rose Nude to cleansed nails. Gently massage until absorbed. Use daily for optimal results.",
+    "ingredients": [
+      "Nitrocellulose",
+      "Butyl Acetate",
+      "Ethyl Acetate",
+      "Adhesive Polymers",
+      "Color Pigments"
+    ],
+    "reviews": [
+      {
+        "name": "Alip",
+        "rating": 5,
+        "comment": "Warna Rose Nude-nya cantik banget dan tahan lama.",
+        "image": "/review/Alip.jpg",
+        "date": "2025-03-25"
+      }
+    ]
+  },
+  {
+    "id": 64,
+    "slug": "glossy-top-coat",
+    "category": "nailcare",
+    "title": "Glossy Top Coat",
+    "price": "Rp 39.000",
+    "image": "/nail_care/GlossyTopCoat.jpg",
+    "description": "Glossy top coat that provides high shine and protects nail polish from peeling.",
+    "howToUse": "Apply Glossy Top Coat to cleansed nails. Massage gently until absorbed. Use daily for optimal results.",
+    "ingredients": ["Film-Forming Agents", "UV Absorbers", "Plasticizers"],
+    "reviews": [
+      {
+        "name": "Veri",
+        "rating": 5,
+        "comment": "Cat kukuku jadi super mengkilap dan tahan lama dengan top coat ini.",
+        "image": "/review/veri_nail.jpg",
+        "date": "2025-03-26"
+      }
+    ]
+  },
+  {
+    "id": 65,
+    "slug": "quick-dry-nail-spray",
+    "category": "nailcare",
+    "title": "Quick Dry Nail Spray",
+    "price": "Rp 35.000",
+    "image": "/nail_care/QuickDryNailSpray.jpg",
+    "description": "Nail polish drying spray that speeds up the drying process and reduces the risk of smudging.",
+    "howToUse": "Apply Quick Dry Nail Spray to cleansed nails. Use daily for optimal results.",
+    "ingredients": ["Isopropyl Alcohol", "Aqua", "Fragrance"],
+    "reviews": [
+      {
+        "name": "Won yu",
+        "rating": 4,
+        "comment": "Cat kukuku cepat kering dan gak gampang rusak setelah pakai spray ini.",
+        "image": "/review/wina_nail.jpg",
+        "date": "2025-03-27"
+      }
+    ]
+  },
+  {
+    "id": 66,
+    "slug": "gentle-nail-polish-remover",
+    "category": "nailcare",
+    "title": "Gentle Nail Polish Remover",
+    "price": "Rp 32.000",
+    "image": "/nail_care/GentleNailPolishRemover.jpg",
+    "description": "A gentle and effective nail polish remover that removes polish without damaging nails.",
+    "howToUse": "Pour Gentle Nail Polish Remover onto a cotton pad, gently rub it onto your nails until the polish is completely removed.",
+    "ingredients": ["Acetone", "Aloe Vera Extract", "Glycerin"],
+    "reviews": [
+      {
+        "name": "Yanto",
+        "rating": 5,
+        "comment": "Cat kukuku terangkat dengan mudah tanpa bikin kuku kering.",
+        "image": "/review/yanti_nail.jpg",
+        "date": "2025-03-28"
+      }
+    ]
+  },
+  {
+    "id": 67,
+    "slug": "stainless-nail-clipper",
+    "category": "nailcare",
+    "title": "Stainless Nail Clipper",
+    "price": "Rp 28.000",
+    "image": "/nail_care/StainlessNailClipper.jpg",
+    "description": "A sharp and rust-resistant stainless steel nail clipper for neat nail trimming.",
+    "howToUse": "Use the Stainless Nail Clipper to trim nails neatly and sharply. Use daily for optimal results.",
+    "ingredients": ["Stainless Steel"],
+    "reviews": [
+      {
+        "name": "Zara",
+        "rating": 5,
+        "comment": "Pemotong kukunya tajam dan awet banget.",
+        "image": "/review/zara_nail.jpg",
+        "date": "2025-03-29"
+      }
+    ]
+  },
+  {
+    "id": 68,
+    "slug": "smooth-nail-file",
+    "category": "nailcare",
+    "title": "Smooth Nail File",
+    "price": "Rp 25.000",
+    "image": "/nail_care/SmoothNailFile.jpg",
+    "description": "A fine nail file that shapes and smooths nails without damaging the nail surface.",
+    "howToUse": "Gently file the nail surface with the Smooth Nail File until the desired shape is achieved.",
+    "ingredients": ["Emery Board Surface"],
+    "reviews": [
+      {
+        "name": "Ana",
+        "rating": 4,
+        "comment": "Kikir kukunya halus dan bikin kuku rapi.",
+        "image": "/review/ana_nail.jpg",
+        "date": "2025-03-30"
+      }
+    ]
+  },
+  {
+    "id": 69,
+    "slug": "soft-cuticle-pusher",
+    "category": "nailcare",
+    "title": "Soft Cuticle Pusher",
+    "price": "Rp 30.000",
+    "image": "/nail_care/SoftCuticlePusher.jpg",
+    "description": "A gentle cuticle pusher to smooth cuticles without damaging nails.",
+    "howToUse": "Use the Soft Cuticle Pusher to gently push back cuticles. Use daily for optimal results.",
+    "ingredients": ["Plastic Handle", "Rubber Tip"],
+    "reviews": [
+      {
+        "name": "Bebi",
+        "rating": 5,
+        "comment": "Alatnya nyaman dipakai dan efektif merapikan kutikula.",
+        "image": "/review/bebi_nail.jpg",
+        "date": "2025-04-01"
+      }
+    ]
+  },
+  {
+    "id": 70,
+    "slug": "glass-shine-top-coat",
+    "category": "nailcare",
+    "title": "Glass Shine Top Coat",
+    "price": "Rp 39.000",
+    "image": "/nail_care/GlassShineTopCoat.jpg",
+    "description": "Top coat with a glass shine effect that gives a shiny appearance to nails.",
+    "howToUse": "Apply Glass Shine Top Coat to cleansed nails. Massage gently until absorbed. Use daily for optimal results.",
+    "ingredients": ["Film-Forming Agents", "UV Absorbers", "Plasticizers"],
+    "reviews": [
+      {
+        "name": "Cici",
+        "rating": 5,
+        "comment": "Kukuku jadi super mengkilap seperti kaca dengan top coat ini.",
+        "image": "/review/cici_nail.jpg",
+        "date": "2025-04-02"
+      }
+    ]
+  },
+  {
+    "id": 71,
+    "slug": "keratin-nail-repair-cream",
+    "category": "nailcare",
+    "title": "Keratin Nail Repair Cream",
+    "price": "Rp 62.000",
+    "image": "/nail_care/KeratinNailRepairCream.jpg",
+    "description": "Keratin-based nail repair cream that strengthens and repairs damaged nails.",
+    "howToUse": "Apply Keratin Nail Repair Cream to cleansed nails. Massage gently until absorbed. Use daily for optimal results.",
+    "ingredients": [
+      "Hydrolyzed Keratin",
+      "Vitamin E",
+      "Panthenol",
+      "Jojoba Oil"
+    ],
+    "reviews": [
+      {
+        "name": "Dodi",
+        "rating": 5,
+        "comment": "Kukuku yang rusak jadi lebih kuat dan sehat setelah pakai krim ini.",
+        "image": "/review/dodi_nail.jpg",
+        "date": "2025-04-03"
+      }
+    ]
+  },
+  {
+    "id": 72,
+    "slug": "nail-hygiene-cleansing-spray",
+    "category": "nailcare",
+    "title": "Nail Hygiene Cleansing Spray",
+    "price": "Rp 35.000",
+    "image": "/nail_care/NailHygieneCleansingSpray.jpg",
+    "description": "A nail cleansing spray that cleans and refreshes nails and cuticles.",
+    "howToUse": "Spray Nail Hygiene Cleansing Spray directly onto nails and cuticles, then allow to absorb for a clean and fresh result.",
+    "ingredients": ["Isopropyl Alcohol", "Aloe Vera Extract", "Glycerin"],
+    "reviews": [
+      {
+        "name": "Eka",
+        "rating": 4,
+        "comment": "Kukuku terasa bersih dan segar setelah pakai spray ini.",
+        "image": "/review/eka_nail.jpg",
+        "date": "2025-04-04"
+      }
+    ]
+  },
+  {
+    "id": 73,
+    "slug": "soft-clean-toothbrush",
+    "category": "oralcare",
+    "title": "Soft Clean Toothbrush",
+    "price": "Rp 25.000",
+    "image": "/oral_care/SoftCleanToothbrush.jpg",
+    "description": "A toothbrush with soft bristles that cleans teeth and gums effectively without injuring them.",
+    "howToUse": "Use the Soft Clean Toothbrush to gently brush your teeth and gums every day to maintain oral hygiene.",
+    "ingredients": ["Soft Nylon Bristles", "Ergonomic Handle"],
+    "reviews": [
+      {
+        "name": "Fani",
+        "rating": 5,
+        "comment": "Sikat giginya lembut dan nyaman dipakai.",
+        "image": "/review/fani_oral.jpg",
+        "date": "2025-04-05"
+      }
+    ]
+  },
+  {
+    "id": 74,
+    "slug": "electric-toothbrush-mini",
+    "category": "oralcare",
+    "title": "Electric Toothbrush Mini",
+    "price": "Rp 199.000",
+    "image": "/oral_care/ElectricToothbrushMini.jpg",
+    "description": "A mini electric toothbrush that effectively cleans plaque and maintains healthy teeth and gums.",
+    "howToUse": "Use the Electric Toothbrush Mini to gently brush your teeth and gums every day to maintain oral hygiene.",
+    "ingredients": [
+      "Sonic Technology",
+      "Rechargeable Battery",
+      "Soft Bristles"
+    ],
+    "reviews": [
+      {
+        "name": "Gilang",
+        "rating": 5,
+        "comment": "Giginya jadi lebih bersih dan sehat setelah pakai sikat gigi elektrik ini.",
+        "image": "/review/gilang_oral.jpg",
+        "date": "2025-04-06"
+      }
+    ]
+  },
+  {
+    "id": 75,
+    "slug": "daily-fresh-toothpaste",
+    "category": "oralcare",
+    "title": "Daily Fresh Toothpaste",
+    "price": "Rp 29.000",
+    "image": "/oral_care/DailyFreshToothpaste.jpg",
+    "description": "Daily toothpaste that provides fresh breath and protects teeth from plaque and tartar.",
+    "howToUse": "Use Daily Fresh Toothpaste to gently brush your teeth and gums every day to maintain oral hygiene.",
+    "ingredients": ["Fluoride", "Xylitol", "Mint Extract"],
+    "reviews": [
+      {
+        "name": "Hendra",
+        "rating": 4,
+        "comment": "Mulutku terasa segar dan giginya terlindungi dengan baik.",
+        "image": "/review/hendra_oral.jpg",
+        "date": "2025-04-07"
+      }
+    ]
+  },
+  {
+    "id": 76,
+    "slug": "sensitive-care-toothpaste",
+    "category": "oralcare",
+    "title": "Sensitive Care Toothpaste",
+    "price": "Rp 35.000",
+    "image": "/oral_care/SensitiveCareToothpaste.jpg",
+    "description": "Toothpaste for sensitive teeth that reduces pain and strengthens tooth enamel.",
+    "howToUse": "Use Sensitive Care Toothpaste to gently brush your teeth and gums every day to maintain oral hygiene.",
+    "ingredients": ["Potassium Nitrate", "Fluoride", "Aloe Vera Extract"],
+    "reviews": [
+      {
+        "name": "Intan",
+        "rating": 5,
+        "comment": "Giginya gak ngilu lagi setelah pakai pasta gigi ini.",
+        "image": "/review/intan_oral.jpg",
+        "date": "2025-04-08"
+      }
+    ]
+  },
+  {
+    "id": 77,
+    "slug": "whitening-pearl-toothpaste",
+    "category": "oralcare",
+    "title": "Whitening Pearl Toothpaste",
+    "price": "Rp 39.000",
+    "image": "/oral_care/WhiteningPearlToothpaste.jpg",
+    "description": "Whitening toothpaste with pearl extract that helps remove stains and brighten teeth color..",
+    "howToUse": "Use Whitening Pearl Toothpaste to gently brush your teeth and gums every day to maintain oral hygiene.",
+    "ingredients": ["Pearl Extract", "Fluoride", "Silica"],
+    "reviews": [
+      {
+        "name": "Joko",
+        "rating": 5,
+        "comment": "Giginya jadi lebih putih dan bersih setelah pakai pasta gigi ini.",
+        "image": "/review/joko_oral.jpg",
+        "date": "2025-04-09"
+      }
+    ]
+  },
+  {
+    "id": 78,
+    "slug": "herbal-mint-toothpaste",
+    "category": "oralcare",
+    "title": "Herbal Mint Toothpaste",
+    "price": "Rp 32.000",
+    "image": "/oral_care/HerbalMintToothpaste.jpg",
+    "description": "Herbal toothpaste with mint extract that freshens breath and maintains oral health naturally.",
+    "howToUse": "Use Herbal Mint Toothpaste to gently brush your teeth and gums every day to maintain oral hygiene.",
+    "ingredients": ["Mint Extract", "Neem Extract", "Fluoride"],
+    "reviews": [
+      {
+        "name": "Lia",
+        "rating": 4,
+        "comment": "Nafasku jadi segar dan mulut terasa bersih setelah pakai pasta gigi ini.",
+        "image": "/review/lia_oral.jpg",
+        "date": "2025-04-10"
+      }
+    ]
+  },
+  {
+    "id": 79,
+    "slug": "gentle-dental-floss",
+    "category": "oralcare",
+    "title": "Gentle Dental Floss",
+    "price": "Rp 28.000",
+    "image": "/oral_care/GentleDentalFloss.jpg",
+    "description": "Soft dental floss that cleans between teeth effectively without injuring the gums.",
+    "howToUse": "Use Gentle Dental Floss to gently clean between teeth every day to maintain oral hygiene.",
+    "ingredients": ["Nylon Fibers", "Mint Flavor"],
+    "reviews": [
+      {
+        "name": "Mira",
+        "rating": 5,
+        "comment": "Benang giginya lembut dan efektif membersihkan sela gigi.",
+        "image": "/review/mira_oral.jpg",
+        "date": "2025-04-11"
+      }
+    ]
+  },
+  {
+    "id": 80,
+    "slug": "dental-floss-pick",
+    "category": "oralcare",
+    "title": "Dental Floss Pick",
+    "price": "Rp 30.000",
+    "image": "/oral_care/DentalFlossPick.jpg",
+    "description": "A practical dental floss tool that makes it easy to clean between teeth anytime.",
+    "howToUse": "Use Dental Floss Pick to gently clean between teeth every day to maintain oral hygiene.",
+    "ingredients": ["Nylon Fibers", "Plastic Handle", "Mint Flavor"],
+    "reviews": [
+      {
+        "name": "Nando",
+        "rating": 4,
+        "comment": "Alat benang giginya praktis dan mudah digunakan.",
+        "image": "/review/nando_oral.jpg",
+        "date": "2025-04-12"
+      }
+    ]
+  },
+  {
+    "id": 81,
+    "slug": "fresh-breath-mouthwash",
+    "category": "oralcare",
+    "title": "Fresh Breath Mouthwash",
+    "price": "Rp 45.000",
+    "image": "/oral_care/FreshBreathMouthwash.jpg",
+    "description": "A mouthwash that freshens breath and kills bacteria that cause bad breath.",
+    "howToUse": "Use Fresh Breath Mouthwash to rinse your mouth every day after brushing your teeth to keep your breath fresh.",
+    "ingredients": ["Cetylpyridinium Chloride", "Menthol", "Aloe Vera Extract"],
+    "reviews": [
+      {
+        "name": "Owen",
+        "rating": 5,
+        "comment": "Nafasku jadi segar sepanjang hari setelah pakai obat kumur ini.",
+        "image": "/review/owen_oral.jpg",
+        "date": "2025-04-13"
+      }
+    ]
+  },
+  {
+    "id": 82,
+    "slug": "sensitive-care-mouthwash",
+    "category": "oralcare",
+    "title": "Sensitive Care Mouthwash",
+    "price": "Rp 49.000",
+    "image": "/oral_care/SensitiveaCareMouthwash.jpg",
+    "description": "A mouthwash for sensitive teeth that soothes gums and reduces pain.",
+    "howToUse": "Use Sensitive Care Mouthwash to rinse your mouth every day after brushing your teeth to maintain healthy teeth and gums.",
+    "ingredients": ["Potassium Nitrate", "Aloe Vera Extract", "Glycerin"],
+    "reviews": [
+      {
+        "name": "Putu",
+        "rating": 5,
+        "comment": "Gusi aku jadi gak ngilu lagi setelah pakai obat kumur ini.",
+        "image": "/review/putu_oral.jpg",
+        "date": "2025-04-14"
+      }
+    ]
+  },
+  {
+    "id": 83,
+    "slug": "tongue-cleaner",
+    "category": "oralcare",
+    "title": "Tongue Cleaner",
+    "price": "Rp 22.000",
+    "image": "/oral_care/TongueCleaner.jpg",
+    "description": "An effective tongue cleaner removes bacteria and food debris from the surface of the tongue.",
+    "howToUse": "Use Tongue Cleaner to gently clean the surface of your tongue every day to maintain oral hygiene.",
+    "ingredients": ["Stainless Steel Blade", "Plastic Handle"],
+    "reviews": [
+      {
+        "name": "Qori",
+        "rating": 5,
+        "comment": "Lidahku jadi bersih dan nafas terasa lebih segar setelah pakai pembersih lidah ini.",
+        "image": "/review/qori_oral.jpg",
+        "date": "2025-04-15"
+      }
+    ]
+  },
+  {
+    "id": 84,
+    "slug": "interdental-brush-set",
+    "category": "oralcare",
+    "title": "Interdental Brush Set",
+    "price": "Rp 35.000",
+    "image": "/oral_care/InterdentalBrushSet.jpg",
+    "description": "Interdental brushes in one set that clean between teeth effectively.",
+    "howToUse": "Use Interdental Brush Set to gently clean between teeth every day to maintain oral hygiene.",
+    "ingredients": ["Nylon Bristles", "Plastic Handle"],
+    "reviews": [
+      {
+        "name": "Refi",
+        "rating": 4,
+        "comment": "Sikat interdentalnya efektif membersihkan sela gigi yang susah dijangkau.",
+        "image": "/review/Refi.jpg",
+        "date": "2025-04-15"
+      }
+    ]
+  },
+  {
+    "id": 85,
+    "slug": "dry-mouth-relief-spray",
+    "category": "oralcare",
+    "title": "Dry Mouth Relief Spray",
+    "price": "Rp 55.000",
+    "image": "/oral_care/DryMouthReliefSpray.jpg",
+    "description": "Dry mouth relief spray that moisturizes and freshens the mouth.",
+    "howToUse": "Spray Dry Mouth Relief Spray directly onto your mouth and gums, then let it absorb for a soft, fresh finish.",
+    "ingredients": ["Aloe Vera Extract", "Glycerin", "Xylitol"],
+    "reviews": [
+      {
+        "name": "Rini",
+        "rating": 5,
+        "comment": "Mulutku terasa lebih lembap dan segar setelah pakai spray ini.",
+        "image": "/review/rini_oral.jpg",
+        "date": "2025-04-16"
+      }
+    ]
+  },
+  {
+    "id": 86,
+    "slug": "mouth-guard-night-care",
+    "category": "oralcare",
+    "title": "Mouth Guard Night Care",
+    "price": "Rp 89.000",
+    "image": "/oral_care/MouthGuardNightCare.jpg",
+    "description": "A mouth guard for night care that protects teeth from damage caused by grinding.",
+    "howToUse": "Place a Mouth Guard Night Care on your teeth before bed to protect them from damage caused by grinding.",
+    "ingredients": ["Medical-Grade Silicone"],
+    "reviews": [
+      {
+        "name": "Sandi",
+        "rating": 5,
+        "comment": "Giginya terlindungi dengan baik saat tidur setelah pakai mouth guard ini.",
+        "image": "/review/sandi_oral.jpg",
+        "date": "2025-04-17"
+      }
+    ]
+  },
+  {
+    "id": 87,
+    "slug": "plaque-reveal-chew-tablets",
+    "category": "oralcare",
+    "title": "Plaque Reveal Chew Tablets",
+    "price": "Rp 42.000",
+    "image": "/oral_care/PlaqueRevealChewTablets.jpg",
+    "description": "Chewable tablets that help break down plaque on teeth for more effective cleaning.",
+    "howToUse": "Use Plaque Reveal Chew Tablets daily after brushing to help reveal plaque on teeth.",
+    "ingredients": ["Erythrosine", "Xylitol"],
+    "reviews": [
+      {
+        "name": "Tina",
+        "rating": 4,
+        "comment": "Tablet kunyahnya membantu aku melihat plak yang harus dibersihkan.",
+        "image": "/review/tina_oral.jpg",
+        "date": "2025-04-18"
+      }
+    ]
+  },
+  {
+    "id": 88,
+    "slug": "kids-strawberry-toothpaste",
+    "category": "oralcare",
+    "title": "Kids Strawberry Toothpaste",
+    "price": "Rp 27.000",
+    "image": "/oral_care/KidsStrawberryToothpaste.jpg",
+    "description": "Strawberry flavored toothpaste especially for children that cleans teeth gently and pleasantly.",
+    "howToUse": "Use Kids Strawberry Toothpaste to gently brush childrens teeth every day to maintain oral hygiene.",
+    "ingredients": ["Fluoride", "Xylitol", "Strawberry Flavor"],
+    "reviews": [
+      {
+        "name": "Umar",
+        "rating": 5,
+        "comment": "Anakku suka banget sama rasa stroberinya dan giginya jadi bersih.",
+        "image": "/review/umar_oral.jpg",
+        "date": "2025-04-19"
+      }
+    ]
+  }
 ]
