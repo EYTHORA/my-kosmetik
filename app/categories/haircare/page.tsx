@@ -7,6 +7,7 @@ const haircare = [
     title: "Anti-Hair Loss Shampoo",
     price: "Rp 129.000",
     image: "/hair_care/Anti-HairLossShampoo.jpg",
+    category: "haircare",
   },
   {
     id: 2,
@@ -14,6 +15,7 @@ const haircare = [
     title: "Anti-Dandruff Shampoo",
     price: "Rp 119.000",
     image: "/hair_care/Anti-DandruffShampoo.jpg",
+    category: "haircare",
   },
   {
     id: 3,
@@ -21,6 +23,7 @@ const haircare = [
     title: "Gentle Hair Essence Shampoo (Non-SLS)",
     price: "Rp 139.000",
     image: "/hair_care/GentleHairEssenceShampoo.jpg",
+    category: "haircare",
   },
   {
     id: 4,
@@ -28,6 +31,7 @@ const haircare = [
     title: "Hair Revitalizer Mist",
     price: "Rp 109.000",
     image: "/hair_care/HairRevitalizerMist.jpg",
+    category: "haircare",
   },
   {
     id: 5,
@@ -35,6 +39,7 @@ const haircare = [
     title: "Intensive Hair Mask",
     price: "Rp 149.000",
     image: "/hair_care/IntensiveHairMask.jpg",
+    category: "haircare",
   },
   {
     id: 6,
@@ -42,6 +47,7 @@ const haircare = [
     title: "Candlenut Oil",
     price: "Rp 89.000",
     image: "/hair_care/CandlenutOil.jpg",
+    category: "haircare",
   },
   {
     id: 7,
@@ -49,6 +55,7 @@ const haircare = [
     title: "Smooth & Shine Shampoo",
     price: "Rp 99.000",
     image: "/hair_care/SmoothShineShampoo.jpg",
+    category: "haircare",
   },
   {
     id: 8,
@@ -56,6 +63,7 @@ const haircare = [
     title: "Nourishing Conditioner",
     price: "Rp 109.000",
     image: "/hair_care/NourishingConditioner.jpg",
+    category: "haircare",
   },
   {
     id: 9,
@@ -63,6 +71,7 @@ const haircare = [
     title: "Hair Vitamin Serum",
     price: "Rp 129.000",
     image: "/hair_care/HairVitaminSerum.jpg",
+category: "haircare",
   },
   {
     id: 10,
@@ -70,6 +79,7 @@ const haircare = [
     title: "Moisture Repair Hair Mask",
     price: "Rp 149.000",
     image: "/hair_care/MoistureRepairHairMask.jpg",
+    category: "haircare",
   },
   {
     id: 11,
@@ -77,6 +87,7 @@ const haircare = [
     title: "Anti-Frizz Spray",
     price: "Rp 89.000",
     image: "/hair_care/Anti-FrizzSpray.jpg",
+    category: "haircare",
   },
   {
     id: 12,
@@ -84,6 +95,7 @@ const haircare = [
     title: "Scalp Refresh Tonic",
     price: "Rp 119.000",
     image: "/hair_care/ScalpRefreshTonic.jpg",
+    category: "haircare",
   },
   {
     id: 13,
@@ -91,6 +103,7 @@ const haircare = [
     title: "Hair Strengthening Oil",
     price: "Rp 139.000",
     image: "/hair_care/HairStrengtheningOil.jpg",
+    category: "haircare",
   },
   {
     id: 14,
@@ -98,6 +111,7 @@ const haircare = [
     title: "Heat Protection Mist",
     price: "Rp 99.000",
     image: "/hair_care/HeatProtectionMist.jpg",
+    category: "haircare",
   },
   {
     id: 15,
@@ -105,6 +119,7 @@ const haircare = [
     title: "Hair Tonic",
     price: "Rp 99.000",
     image: "/hair_care/HairTonic.jpg",
+    category: "haircare",
   },
   {
     id: 16,
@@ -112,6 +127,7 @@ const haircare = [
     title: "Silky Smooth Leave-In Conditioner",
     price: "Rp 129.000",
     image: "/hair_care/SilkySmoothLeave-InConditioner.jpg",
+    category: "haircare",
   },
 ];
 
